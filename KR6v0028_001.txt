@@ -1,17 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:12.986668
+#+DATE: 2015-08-31 05:58:13.298421
 #+TITLE: 諦義證得經
 #+PROPERTY: CBETA_ID W02n0021
 #+PROPERTY: ID KR6v0028
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 02, No. 021
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6v0028_W_001-0355a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+諦義證得經¶
 〔古印度〕　烏瑪斯伐蒂　著¶
 方廣錩　譯註¶
 ¶
@@ -107,10 +107,9 @@
 教文獻》，供讀者研究參考。¶
 ¶
 
-正文¶
+〔正文〕¶
 ¶
-
- 諦義證得經¶
+諦義證得經¶
 ¶
 
 第一章¶
@@ -118,7 +117,7 @@
 
 §1.1
 「
-正見、智、行就是解脫道。（samyagdarśana-jñāna-cāritrāṇīmokṣa-mārgaḥ.）」¶
+正見、智、行就是解脫道。（samyagdarśana-jñāna-cāritrāṇī mokṣa-mārgaḥ.）」¶
 
 【〔註釋〕
 「見」（Darśana）是印度宗教哲學的常用術語，意為¶
@@ -151,7 +150,7 @@
 §1.2
 「
 正見即對諦義的信仰。（tattvārtha-¶
-śraddhānāṃsamyagdarśanam.）」¶
+śraddhānāṃ samyagdarśanam.）」¶
 
 【〔註釋〕
 本節至§1.8解釋什麼是正見與論述怎樣纔能得到¶
@@ -163,7 +162,7 @@
 §1.3
 「
 它可自然而然或由證得而產生。（tan¶
-nisargādadhigamādvā.）」¶
+ nisargād adhigamād vā.）」¶
 
 【〔註釋〕
 它，指正見。本節論述產生正見的兩種途徑。耆那教¶
@@ -180,7 +179,7 @@ nisargādadhigamādvā.）」¶
 「
 諦即命、非命、漏、縛、遮、滅、解脫。（jīva-¶
 ajīva-āsrava-bandha-saṃvara-nirjarā-mokṣās¶
-tattvam.）」¶
+ tattvam.）」¶
 
 【〔註釋〕
 本節敘述正見的綱目，亦即《諦義證得經》論述的中¶
@@ -222,7 +221,7 @@ tattvam.）」¶
 §1.5
 「
 按名稱、形態、實體、狀態而決定。（nāma-¶
-sthāpanā-dravya-bhāvatastan-nyāsaḥ.）」¶
+sthāpanā-dravya-bhāvatas tan-nyāsaḥ.）」¶
 
 【〔註釋〕
 本節意為每一個諦可以表現為，或被規定為名稱¶
@@ -263,7 +262,7 @@ sthiti-vidhānataḥ.）」¶
 「
 及存在、數量、場所、接觸、時間、間隔、狀態、¶
 大小（的考察）而證得。（sat-saṃkhyā-kṣetra-sparśana¶
--kāla-antara-bhāva-alpabahutvaiśca.）」¶
+-kāla-antara-bhāva-alpabahutvaiś ca.）」¶
 
 【〔註釋〕
 這兩節意為應按§1.6提出的那兩種方法來觀察這¶
@@ -321,15 +320,15 @@ jñānam.）」¶
 
 §1.10
 「
-這分作兩種量：（tatpramāṇe.）」¶
+這分作兩種量：（tat pramāṇe.）」¶
 
 §1.11
 「
-前兩種是間接的；（ādhyeparokṣam.）」¶
+前兩種是間接的；（ādhye parokṣam.）」¶
 
 §1.12
 「
-其它是直接的。（pratyakṣamanyat.）」¶
+其它是直接的。（pratyakṣam anyat.）」¶
 
 【〔註釋〕
 耆那教按照是否需要媒介、工具把感官智等五種智¶
@@ -350,8 +349,8 @@ jñānam.）」¶
 「
 感官智、念、想、思、覺知等，都是同義詞。
 <pb:KR6v0028_W_001-0364a>¶
-（matiḥsmṛtiḥsaṃjñācintā-abhinibodhaity¶
-anarthāntaram.）」¶
+（matiḥ smṛtiḥ saṃjñā cintā-abhinibodha ity¶
+ anarthāntaram.）」¶
 
 【〔註釋〕
 本節實際上是給感官智下定義，意為感官智包括念¶
@@ -362,7 +361,7 @@ anarthāntaram.）」¶
 §1.14
 「
 這（感官智）以根及非根為原因。（tad¶
-indriya-anindriya-nimittam.）」¶
+ indriya-anindriya-nimittam.）」¶
 
 【〔註釋〕
 本節論述感官智依靠什麼而產生。¶
@@ -395,7 +394,7 @@ indriya-anindriya-nimittam.）」¶
 （可認識）多數、多種、迅速、不顯現、非言¶
 詮、恆常及其反面。（bahu-bahuvidha-kṣipra-aniḥsṛta-
 <pb:KR6v0028_W_001-0365a>¶
-anukta-dhruvānāṃsetarāṇām.）」¶
+anukta-dhruvānāṃ setarāṇām.）」¶
 
 【〔註釋〕
 本節論述感官智的認識對象。即它可以認識「多¶
@@ -417,7 +416,7 @@ anukta-dhruvānāṃsetarāṇām.）」¶
 
 §1.19
 「
-（但此時）要除去眼根與非根。（nacakṣur-¶
+（但此時）要除去眼根與非根。（na cakṣur-¶
 anindriyābhyām.）」¶
 
 【〔註釋〕
@@ -431,7 +430,7 @@ anindriyābhyām.）」¶
 §1.20
 「
 聖典智在感官智之後。（可分為）兩類：多數¶
-（及）十二種。（śrutammati-pūrvaṃdvy-aneka-dvadāśa¶
+（及）十二種。（śrutam mati-pūrvaṃ dvy-aneka-dvadāśa¶
 -bhedam.）」¶
 
 【〔註釋〕
@@ -444,18 +443,18 @@ anindriyābhyām.）」¶
 
 §1.21
 「
-直觀智有兩種。（dvividho'vadhiḥ.）」¶
+直觀智有兩種。（dvividho 'vadhiḥ.）」¶
 
 §1.22
 「
 對於住在地獄者及諸天，它是與生俱有的。¶
-（bhava-pratyayonāraka-devānām.）」¶
+（bhava-pratyayo nāraka-devānām.）」¶
 
 §1.23
 「
 對於其它，它由上述原因而生。（但此時它¶
-又）分成六種。（yathokta-nimittaḥṣaḍ-vikalpaḥ¶
-śeṣānām.）」¶
+又）分成六種。（yathokta-nimittaḥ ṣaḍ-vikalpaḥ¶
+ śeṣānām.）」¶
 
 【〔註釋〕
 這三節論述直觀智。¶
@@ -474,13 +473,13 @@ anindriyābhyām.）」¶
 少、又增大者；（6）不變者。¶
 
 空衣派的刊本將§1.21與§1.22兩節合為一節，作「住地獄¶
-者及諸天的直觀智是與生俱有的。」（bhavapratyayo'vadhirdevā-¶
+者及諸天的直觀智是與生俱有的。」（bhavapratyayo 'vadhir devā-¶
 nārakāṇām.）】¶
 
 §1.24
 「
 他心智分（單純）直覺和廣泛直覺。（ṛju-¶
-vipulamatīmanaḥparyāyaḥ.）」¶
+vipulamatī manaḥparyāyaḥ.）」¶
 
 【〔註釋〕
 本節及下一節論述他心智。¶
@@ -493,7 +492,7 @@ vipulamatīmanaḥparyāyaḥ.）」¶
 §1.25
 「
 其差別則根據清淨及不壞。（viśuddhy-¶
-apratipātābhyāmtad-viśeṣaḥ.）」¶
+apratipātābhyām tad-viśeṣaḥ.）」¶
 
 【〔註釋〕
 耆那教認為廣泛直覺比單純直覺更高一等。即它比¶
@@ -504,7 +503,7 @@ apratipātābhyāmtad-viśeṣaḥ.）」¶
 「
 根據清靜、範圍、所有者、對境（的不同，來¶
 區別）直觀智和他心智。（viśuddhi-kṣetra-svāmi-¶
-viṣayebhyo'vadhi-manaḥparyāyayoḥ.）」¶
+viṣayebhyo 'vadhi-manaḥparyāyayoḥ.）」¶
 
 【〔註釋〕
 本節論述直觀智與他心智的差別。¶
@@ -518,8 +517,8 @@ viṣayebhyo'vadhi-manaḥparyāyayoḥ.）」¶
 §1.27
 「
 與感官智及聖典智相關的（對境）在於一切¶
-實體，（而）不在於一切樣態。（mati-śrutayornibandhaḥ¶
-sarva-dravyeṣvasarva-paryāyeṣu.）」¶
+實體，（而）不在於一切樣態。（mati-śrutayor nibandhaḥ¶
+ sarva-dravyeṣv asarva-paryāyeṣu.）」¶
 
 【〔註釋〕
 本節意為感官智及聖典智可以認識一切實體，但它¶
@@ -530,7 +529,7 @@ sarva-dravyeṣvasarva-paryāyeṣu.）」¶
 §1.28
 「
 （而）與直觀智相關的（對境）在於諸色（之¶
-中）。（rūpiṣvavadheḥ.）」¶
+中）。（rūpiṣv avadheḥ.）」¶
 
 【〔註釋〕
 色（rūpa），一般指物質性的具體事物，與¶
@@ -543,7 +542,7 @@ sarva-dravyeṣvasarva-paryāyeṣu.）」¶
 「
 與他心智相關的（對境，還）在於它的無限
 <pb:KR6v0028_W_001-0368a>¶
-部分。（tad-anantabhāgemanaḥparyāyasya.）」¶
+部分。（tad-anantabhāge manaḥparyāyasya.）」¶
 
 【〔註釋〕
 「它」指直觀智認識的對象。據作者原註，本節意為¶
@@ -554,7 +553,7 @@ sarva-dravyeṣvasarva-paryāyeṣu.）」¶
 §1.30
 「
 與完全智相關的（對境），在於一切實體及¶
-樣態。（sarva-dravya-paryāyeṣukevalasya.）」¶
+樣態。（sarva-dravya-paryāyeṣu kevalasya.）」¶
 
 【〔註釋〕
 本節論述完全智的認識對象。由於完全智最圓滿、¶
@@ -565,7 +564,7 @@ sarva-dravyeṣvasarva-paryāyeṣu.）」¶
 §1.31
 「
 在一（命）中同時有從一（智）到四（智）的¶
-區分。（ekādīnibhājyāniyugapadekasminnācaturbhyaḥ.）」¶
+區分。（ekādīni bhājyāni yugapad ekasminn ā caturbhyaḥ.）」¶
 
 【〔註釋〕
 前面§1.27至§1.30論述了五種智的認識對象。¶
@@ -581,13 +580,13 @@ sarva-dravyeṣvasarva-paryāyeṣu.）」¶
 §1.32
 「
 感官智、聖典智、直觀智還有顛倒。（mati-¶
-śruta-avadhayoviparyayaśca.）」¶
+śruta-avadhayo viparyayaś ca.）」¶
 
 §1.33
 「
 （這種顛倒）因把有與非有等同視之或象狂¶
-人那樣自恣感受而產生。（sad-asatoraviśeṣādyadṛccha-¶
-upalabdherunmattavat.）」¶
+人那樣自恣感受而產生。（sad-asator aviśeṣād yadṛccha-¶
+upalabdher unmattavat.）」¶
 
 【〔註釋〕
 顛倒，指謬誤，就如把馬顛倒認識為牛那樣。
@@ -602,7 +601,7 @@ upalabdherunmattavat.）」¶
 「
 觀察法有無差別觀、共性觀、個性觀、現狀¶
 觀、習慣義觀（等五種）。（naigama-saṃgraha-vyavahāra¶
--ṛjusūtra-śabdānayāḥ.）」¶
+-ṛjusūtra-śabdā nayāḥ.）」¶
 
 【〔註釋〕
 本節與下節解釋§1.6中提到的觀察法。¶
@@ -662,7 +661,7 @@ upalabdherunmattavat.）」¶
 §1.35
 「
 （其中）第一個與習慣義觀（可分別）分為二¶
-種及三種。（ābya-śabdaudvi-tri-bhedau.）」¶
+種及三種。（ābya-śabdau dvi-tri-bhedau.）」¶
 
 【〔註釋〕
 「第一個」，指五種觀察法中的第一個無差別觀。如¶
@@ -680,8 +679,8 @@ upalabdherunmattavat.）」¶
 「
 命的真實狀態可分業的抑制狀態、業的滅盡¶
 狀態、混合狀態、業的活動狀態及自然狀態。（aupaśamika¶
--kṣāyikaubhāvaumiśraścajīvasyasvatattvamauadyika-¶
-pāriṇāmikauca.）」¶
+-kṣāyikau bhāvau miśraś ca jīvasya svatattvam auadyika-¶
+pāriṇāmikau ca.）」¶
 
 【〔註釋〕
 從本章到第四章，主要論述七諦之第一諦——命¶
@@ -732,7 +731,7 @@ yathākramam.）」¶
 「
 （在業的滅盡狀態再加上）智、見、施與、利¶
 得、受用、皆用、精進。（jñāna-darśana-dāna-lābha-¶
-bhoga-upabhoga-vīryāṇica.）」¶
+bhoga-upabhoga-vīryāṇi ca.）」¶
 
 【〔註釋〕
 前一節的「正」、「行」再加上本節的「智」等七種，即¶
@@ -750,7 +749,7 @@ bhoga-upabhoga-vīryāṇica.）」¶
 佛教中所謂的「施無畏」。¶
 
 利得（lābha）：因業滅盡而得完全智的人即使不吃飯也能生¶
-存，因在其身體中有一種能同化外界物質而為己用的力量。相當於¶
+存，因在其身體中有一種能同化外界物質而為已用的力量。相當於¶
 中國所說的「辟穀」。也可簡單地解釋為可得到無限的利益。¶
 
 受用（bhoga）：能得到天雨花之類的供養。¶
@@ -766,8 +765,8 @@ bhoga-upabhoga-vīryāṇica.）」¶
 <pb:KR6v0028_W_001-0373a>¶
 智、三種無智、三種見、五種得、正、行、禁戒與無禁戒（等¶
 十八種）。（jñāna-ajñāna-darśana-（dānādi）-¶
-labdhayaścatus-tri-tri-pañca-bhedāḥsamyaktva-¶
-cāritra-saṃyamāsaṃyamāśca.）」¶
+labdhayaś catus-tri-tri-pañca-bhedāḥ samyaktva-¶
+cāritra-saṃyamāsaṃyamāś ca.）」¶
 
 【〔註釋〕
 四種智，指§1.9提到的五種智中的前四種。¶
@@ -794,7 +793,7 @@ cāritra-saṃyamāsaṃyamāśca.）」¶
 （在業的活動狀態，則分）四趣、四濁、三相、¶
 一邪見、一無智、一無禁戒、一不成之性及六彩（等二十一¶
 種）。（gati-kaṣāya-liṅga-mithyādarśana-ajñāna-¶
-asaṃyata-asiddhatva-leśyāścatuś-catus-try-eka-¶
+asaṃyata-asiddhatva-leśyāś catuś-catus-try-eka-¶
 eka-eka-eka-ṣad-bhedāḥ.）」¶
 
 【〔註釋〕
@@ -821,7 +820,7 @@ eka-eka-eka-ṣad-bhedāḥ.）」¶
 §2.7
 「
 （在本然狀態則分）命性、可能性及不可能性¶
-等。（jīva-bhavya-abhavyatvā-dīnica.）」¶
+等。（jīva-bhavya-abhavyatvā-dīni ca.）」¶
 
 【〔註釋〕
 「命性」（jīvatva），在此指具有「活力」、「活性」、「精神¶
@@ -839,7 +838,7 @@ eka-eka-eka-ṣad-bhedāḥ.）」¶
 
 §2.8
 「
-（命的）特徵是意向性。（upayogolakṣaṇam.）」¶
+（命的）特徵是意向性。（upayogo lakṣaṇam.）」¶
 
 【〔註釋〕
 本節及下一節論述命的特徵。¶
@@ -851,7 +850,7 @@ eka-eka-eka-ṣad-bhedāḥ.）」¶
 §2.9
 「
 （此中有）兩種，（且分別）有八種、四種之區¶
-別。（sadvividho'ṣṭa-catur-bhedaḥ.）」¶
+別。（sa dvividho 'ṣṭa-catur-bhedaḥ.）」¶
 
 【〔註釋〕
 意向性可分成兩種：一、關於「智」的意向性；二、關¶
@@ -863,7 +862,7 @@ eka-eka-eka-ṣad-bhedāḥ.）」¶
 §2.10
 「
 （命分為二種：）輪迴者與解脫者。¶
-（saṃsāriṇomuktāśca.）」¶
+（saṃsāriṇo muktāś ca.）」¶
 
 【〔註釋〕
 耆那教的命可總括為解脫者與輪迴者兩種。所謂解¶
@@ -884,17 +883,17 @@ eka-eka-eka-ṣad-bhedāḥ.）」¶
 §2.12
 「
 輪迴者（並）可分為動者與不動者。¶
-（saṃsārinastrasa-sthāvarāḥ.）」¶
+（saṃsārinas trasa-sthāvarāḥ.）」¶
 
 §2.13
 「
 不動者為地、水、植物。（pṛthivy-ab-¶
-vanaspatayaḥsthāvarāḥ.）」¶
+vanaspatayaḥ sthāvarāḥ.）」¶
 
 §2.14
 「
 動者為火、風及具有二個以上根者。（tejo-¶
-vāyudvīndriyādayaścatrasāḥ.）」¶
+vāyu dvīndriyādayaś ca trasāḥ.）」¶
 
 【〔註釋〕
 根（indriya），即感官。關於根的詳細論述可見§2.¶
@@ -907,7 +906,7 @@ vāyudvīndriyādayaścatrasāḥ.）」¶
 在空衣派的刊本中，§2.13、§2.14兩節略有不同：¶
 
 （§2.13）不動者為地、水、火、風、植物。（pṛthivy-ab-tejo¶
--vāyu-vanaspatayaḥsthāvarāḥ.）¶
+-vāyu-vanaspatayaḥ sthāvarāḥ.）¶
 
 （§2.14）動者為具有兩個以上根者。（dvīndriyādayas¶
 trasāḥ.）
@@ -929,12 +928,12 @@ trasāḥ.）
 §2.17
 「
 根自體與輔助根為實體根。（nirvṛtty-¶
-upakaraṇedravyendriyam.）」¶
+upakaraṇe dravyendriyam.）」¶
 
 §2.18
 「
 （功能的）獲得與意向性為作用根。（labdhy¶
--upayogaubhāvendriyam.）」¶
+-upayogau bhāvendriyam.）」¶
 
 【〔註釋〕
 從§2.15到本節講根的結構方式。耆那教從體、用¶
@@ -953,7 +952,7 @@ upakaraṇedravyendriyam.）」¶
 §2.19
 「
 意向性存在於觸覺等中。（upayogaḥ¶
-sparśādiṣu.）」¶
+ sparśādiṣu.）」¶
 
 【〔註釋〕
 據作者原註，此節意為感官智的意向性存在於觸覺¶
@@ -972,7 +971,7 @@ rasana-ghrāṇa-cakṣuḥ-śrotrāṇi.）」¶
 §2.21
 「
 它們的對象是觸、味、香、色、聲。（sparśa-¶
-rasa-gandha-varṇa-śabdāsteṣāmarthāḥ.）」¶
+rasa-gandha-varṇa-śabdās teṣām arthāḥ.）」¶
 
 【〔註釋〕
 這兩節論述根的分類及認識對象。由於把根分作¶
@@ -981,7 +980,7 @@ rasa-gandha-varṇa-śabdāsteṣāmarthāḥ.）」¶
 §2.22
 「
 非根（的對象）是聖典智。（śrutam¶
-anindriyasya.）」¶
+ anindriyasya.）」¶
 
 【〔註釋〕
 非根，即意，見§1.14、§1.19。因為聖典智的概念¶
@@ -992,7 +991,7 @@ anindriyasya.）」¶
 §2.23
 「
 直至風的諸（生物）有一個根。（vāyu-¶
-antānāmekam.）」¶
+antānām ekam.）」¶
 
 【〔註釋〕
 此節意為從地到風，即地、水、植物、火、風等五類東¶
@@ -1001,7 +1000,7 @@ antānāmekam.）」¶
 「身」，或稱「皮」，即具備觸覺。¶
 
 空衣派的刊本此節為：「直至植物的（生物）有一個¶
-根。」（vanaspaty-antānāmekam.）這兒所謂的「直至植物」，是按照¶
+根。」（vanaspaty-antānām ekam.）這兒所謂的「直至植物」，是按照¶
 空衣派刊本的排列次序來講的，故也同樣是說地、水、火、風、植物¶
 等五類東西具備觸覺。兩者表述方式雖不同，理論內容是一致的。¶
 參見§2.13、§2.14。】¶
@@ -1010,7 +1009,7 @@ antānāmekam.）」¶
 「
 蟲類、蟻類、蜂類、人類等，依次增加（一個¶
 根）。（kṛmi-pipīlikā-bhramara-manuṣya-ādīnām¶
-ekaika-vṛddhāni.）」¶
+ ekaika-vṛddhāni.）」¶
 
 【〔註釋〕
 耆那教認為蟲類有兩個根：皮、舌；蟻類有三個根：¶
@@ -1021,7 +1020,7 @@ ekaika-vṛddhāni.）」¶
 §2.25
 「
 （祇有）有理性者有意識。（saṃjñinaḥ¶
-samanaskāḥ.）」¶
+ samanaskāḥ.）」¶
 
 【〔註釋〕
 耆那教認為有些人具備各種正常的精神活動、思維¶
@@ -1061,7 +1060,7 @@ samanaskāḥ.）」¶
 §2.26
 「
 在趣的分離處，有業身在活動。（vigraha-¶
-gataukarma-yogaḥ.）」¶
+gatau karma-yogaḥ.）」¶
 
 【〔註釋〕
 「趣」，即四趣。「趣的分離處」，即一個趣與另一個趣¶
@@ -1075,7 +1074,7 @@ gataukarma-yogaḥ.）」¶
 
 §2.27
 「
-運動是沿直線（進行）的。（anuśreṇigatiḥ.）」¶
+運動是沿直線（進行）的。（anuśreṇi gatiḥ.）」¶
 
 【〔註釋〕
 從本節到§2.31論述命的運動方式、所需時間及命¶
@@ -1086,12 +1085,12 @@ gataukarma-yogaḥ.）」¶
 §2.28
 「
 （解脫的）命的（運動）不曲折。（avigrahā¶
-jīvasya.）」¶
+ jīvasya.）」¶
 
 §2.29
 「
 而輪迴（著的命）有少於四次的（方向上的）¶
-曲折。（vigrahavatīcasaṃsāriṇaḥprāk-caturbhyaḥ.）」¶
+曲折。（vigrahavatī ca saṃsāriṇaḥ prāk-caturbhyaḥ.）」¶
 
 【〔註釋〕
 命在運動時，必須沿直線前進，不能繞曲線。正在輪¶
@@ -1102,7 +1101,7 @@ jīvasya.）」¶
 §2.30
 「
 不曲折（祇）要一瞬間。（eka-samayo¶
-'vigrahaḥ.）」¶
+ 'vigrahaḥ.）」¶
 
 【〔註釋〕
 耆那教認為命從一點到另一點，祇要是直線前進，¶
@@ -1116,7 +1115,7 @@ jīvasya.）」¶
 §2.31
 「
 一（瞬間）、二（瞬間）、（三瞬間）時，（命）不¶
-攝取。（ekaṃdvau〔trīn〕vāanāhārakaḥ.）」¶
+攝取。（ekaṃ dvau 〔trīn〕 vā anāhārakaḥ.）」¶
 
 【〔註釋〕
 由於此時的命正在為進入新趣而運動，本身沒有肉¶
@@ -1127,7 +1126,7 @@ jīvasya.）」¶
 §2.32
 「
 （命的出生形式）有凝集生、胎生、化生（三¶
-種）。（saṃmūrchana-garbha-upapātājanma.）」¶
+種）。（saṃmūrchana-garbha-upapātā janma.）」¶
 
 【〔註釋〕
 命本身是無始無終的，它既不會被產生，也不會被¶
@@ -1140,8 +1139,8 @@ jīvasya.）」¶
 §2.33
 「
 其出生的場所分別為諸有生命處、冷處、覆¶
-處、與其相反處及混合處。（sacitta-śīta-saṃvṛttāḥsetarā¶
-miśrāśca-ekaśastad-yonayaḥ.）」¶
+處、與其相反處及混合處。（sacitta-śīta-saṃvṛttāḥ setarā¶
+ miśrāś ca-ekaśas tad-yonayaḥ.）」¶
 
 【〔註釋〕
 生於「諸有生命處」，指生在生物體的內部，如蛔蟲¶
@@ -1162,7 +1161,7 @@ miśrāśca-ekaśastad-yonayaḥ.）」¶
 §2.34
 「
 胎生是胞衣生、卵生和無膜生。（jarāyu-¶
-aṇḍa-potajānāṃgarbhaḥ.）」¶
+aṇḍa-potajānāṃ garbhaḥ.）」¶
 
 【〔註釋〕
 胞衣生（jarāyu），該詞在佛教中譯為胎生，指哺乳動¶
@@ -1175,23 +1174,23 @@ aṇḍa-potajānāṃgarbhaḥ.）」¶
 生時外無胞衣，故稱無膜生。¶
 
 在空衣派的刊本中，本節作「jarāyuja-aṇḍaja-potānāṃ¶
-garbhaḥ.」意義相同。】¶
+ garbhaḥ.」意義相同。】¶
 
 §2.35
 「
 化生是地獄與天。（nāraka-devānām¶
-upapātaḥ.）」¶
+ upapātaḥ.）」¶
 
 【〔註釋〕
 化生（upapāta），指不需要任何母體，突然幻現的生¶
 命產生形式。據說生活在地獄及天界的命都是以這種形式產生的。¶
 
-在空衣派的刊本中，本節作「deva-nārakāṇāmupapātaḥ.」意¶
+在空衣派的刊本中，本節作「deva-nārakāṇām upapātaḥ.」意¶
 義相同。】¶
 
 §2.36
 「
-其餘是凝集生。（śeṣānāṃsaṃmūrchanam.）」¶
+其餘是凝集生。（śeṣānāṃ saṃmūrchanam.）」¶
 
 【〔註釋〕
 「凝集生」（saṃmūrchana），類似於佛教的濕生，即濕¶
@@ -1200,8 +1199,8 @@ upapātaḥ.）」¶
 §2.37
 「
 （另外，身體有）粗大身、可變身、取得身、光¶
-亮身、業身（等五種）。（audārikavaikriya-āhāraka-taijasa¶
--kārmaṇāniśarīrāṇi.）」¶
+亮身、業身（等五種）。（audārika vaikriya-āhāraka-taijasa¶
+-kārmaṇāni śarīrāṇi.）」¶
 
 【〔註釋〕
 本節至§2.49論述命在輪迴時，在各趣各具有什麼¶
@@ -1225,7 +1224,7 @@ upapātaḥ.）」¶
 §2.38
 「
 （此五身）後面的更細微一些。（〔teṣāṃ〕¶
-paraṃparaṃsūkṣmam.）」¶
+ paraṃ paraṃ sūkṣmam.）」¶
 
 【〔註釋〕
 本節意為組成這五身的物質，愈往後愈細微。後兩¶
@@ -1234,8 +1233,8 @@ paraṃparaṃsūkṣmam.）」¶
 §2.39
 「
 光亮身以前（的各身所擁有的）微點，（後者¶
-依次比前多）無數倍。（pradeśato'saṃkhyeya-guṇaṃprāk¶
-taijasāt.）」¶
+依次比前多）無數倍。（pradeśato 'saṃkhyeya-guṇaṃ prāk¶
+ taijasāt.）」¶
 
 【〔註釋〕
 「光亮身以前的各身」，指粗大身、可變身、取得身三¶
@@ -1245,7 +1244,7 @@ taijasāt.）」¶
 §2.40
 「
 其它的具有的微點，依次是（前者的）無數¶
-倍。（ananta-guṇepare.）」¶
+倍。（ananta-guṇe pare.）」¶
 
 【〔註釋〕
 「其它的」，指光亮身、業身。¶
@@ -1269,7 +1268,7 @@ taijasāt.）」¶
 §2.42
 「
 且無始以來即（與命）相結合。（anādi-¶
-saṃbandheca.）」¶
+saṃbandhe ca.）」¶
 
 §2.43
 「
@@ -1284,8 +1283,8 @@ saṃbandheca.）」¶
 §2.44
 「
 一個（命）以這（二個身）為開始，直到同時¶
-享有四個身。（tad-ādīnibhājyāniyugapadekasyaā¶
-caturbhyaḥ.）」¶
+享有四個身。（tad-ādīni bhājyāni yugapad ekasya ā¶
+ caturbhyaḥ.）」¶
 
 【〔註釋〕
 耆那教認為與光亮身及業身結合的命在輪迴中不¶
@@ -1295,7 +1294,7 @@ caturbhyaḥ.）」¶
 §2.45
 「
 最後之身不享受（苦樂）。（nirupabhogam¶
-antyam.）」¶
+ antyam.）」¶
 
 【〔註釋〕
 「最後之身」，即業身。】¶
@@ -1303,7 +1302,7 @@ antyam.）」¶
 §2.46
 「
 最初的由胎生（或）凝集生（產生）。（garbha¶
--saṃmūrchana-jamādyam.）」¶
+-saṃmūrchana-jam ādyam.）」¶
 
 【〔註釋〕
 「最初的」，指粗大身。】¶
@@ -1311,17 +1310,17 @@ antyam.）」¶
 §2.47
 「
 可變身由化生（產生）。（vaikriyam¶
-aupapātikam.）」¶
+ aupapātikam.）」¶
 
 【〔註釋〕
 在空衣派的刊本中，本節作「aupapātikaṃ¶
-vaikriyikam」。】¶
+ vaikriyikam」。】¶
 
 §2.48
 「
 （但）因（苦行功德的）獲得力也可（得到可
 <pb:KR6v0028_W_001-0384a>¶
-變身）。（labdhi-pratyayaṃca.）」¶
+變身）。（labdhi-pratyayaṃ ca.）」¶
 
 【〔註釋〕
 §2.47講的由化生產生的可變身是指在天界、地獄¶
@@ -1332,7 +1331,7 @@ vaikriyikam」。】¶
 空衣派的刊本中此節為§2.47，（參見§2.19註釋），並另有¶
 §2.48如下：¶
 
-（§2.48）光亮身亦然。（taijasamapi.）¶
+（§2.48）光亮身亦然。（taijasam api.）¶
 
 即，聖者可通過特殊的苦行而獲得光亮身，這種光亮身可用來¶
 救厄度災，亦可用來燒盡怨敵。¶
@@ -1344,7 +1343,7 @@ vaikriyikam」。】¶
 「
 取得身祇存在於能默記十四前的（高僧）。¶
 （此身）吉祥、潔白，（且任何東西都）不能妨礙（此身的活¶
-動）。（śubhaṃviśuddhamavyāghāticā'hārakaṃcaturdaśa-¶
+動）。（śubhaṃ viśuddham avyāghāti cā 'hārakaṃ caturdaśa-¶
 pūrva-dharasyai'va.）」¶
 
 【〔註釋〕
@@ -1362,26 +1361,26 @@ pūrva-dharasyai'va.）」¶
 <pb:KR6v0028_W_001-0385a>¶
 
 空衣派刊本無「能默記十四前的高僧」等詞，代之以「達到修¶
-道的第六個階位、尚未（最後）完成的聖者。」（pramattasaṃyata.）】¶
+道的第六個階位、尚未（最後）完成的聖者。」（pramatta saṃyata.）】¶
 
 §2.50
 「
 住地獄者及凝集生者無（男女）性別。¶
-（nāraka-saṃmūrchinonapuṃsakāni.）」¶
+（nāraka-saṃmūrchino napuṃsakāni.）」¶
 
 【〔註釋〕
 本節及下一節論述四趣中各類生物的性別。】¶
 
 §2.51
 「
-諸天則不然。（nadevāḥ.）」¶
+諸天則不然。（na devāḥ.）」¶
 
 【〔註釋〕
 即諸天神有男女性區別。¶
 
 在空衣派刊本中，還有這麼一節：¶
 
-（§2.52）其餘的有三性。（śeṣāstri-vedāḥ.）¶
+（§2.52）其餘的有三性。（śeṣās tri-vedāḥ.）¶
 
 即，胎生的有男、女、中性的區別。但白衣派刊本無此節。】¶
 
@@ -1390,7 +1389,7 @@ pūrva-dharasyai'va.）」¶
 化生者、最後身者、最勝者、有無數量年壽¶
 者，（此等生物）的壽命不會離去。（aupapātika-¶
 caramadeha-uttamapuruṣa-asaṃkhyeyavarṣāyuṣo¶
-'napavartyāyuaḥ.）」¶
+ 'napavartyāyu aḥ.）」¶
 
 【〔註釋〕
 本節論述壽命問題。所謂「壽命不會離去」不是指永¶
@@ -1420,8 +1419,8 @@ caramadeha-uttamapuruṣa-asaṃkhyeyavarṣāyuṣo¶
 光地、礫光地、砂光地、泥光地、煙光地、闇光地、大闇光地¶
 等七地。（它們）愈下層愈高闊。（ratna-śarkarā-vālukā-¶
 paṅka-dhūma-tamo-mahātamaḥ-prabhābhūmayo¶
-ghanāmbu-vāta-ākāśa-pratiṣṭhāḥsaptā'dho'dhaḥ¶
-pṛthutarāḥ.）」¶
+ ghanāmbu-vāta-ākāśa-pratiṣṭhāḥ saptā 'dho 'dhaḥ¶
+ pṛthutarāḥ.）」¶
 
 【〔註釋〕
 第三章、第四章主要論述命在地獄、地面、天界等三¶
@@ -1438,13 +1437,13 @@ pṛthutarāḥ.）」¶
 
 §3.2
 「
-地獄就在其中。（tāsunarakāḥ.）」¶
+地獄就在其中。（tāsu narakāḥ.）」¶
 
 【〔註釋〕
 空衣派刊本此節為：「其中依次有三百萬、二百五十¶
 萬、一百五十萬、一百萬、三十萬、九萬九千九百九十五，以及五個¶
-地獄。」（tāsutrimśat-pañcaviṃśati-pañcadaśa-daśa-tri-¶
-pañcanaika-naraka-śata-sahasrāṇipañcaivayathākramam.）】¶
+地獄。」（tāsu trimśat-pañcaviṃśati-pañcadaśa-daśa-tri-¶
+pañcanaika-naraka-śata-sahasrāṇi pañcaiva yathākramam.）】¶
 
 §3.3
 「
@@ -1469,7 +1468,7 @@ duḥkhāḥ.）」¶
 「
 且在四地之前者，要承受給人製造痛苦的阿¶
 修羅所製造的痛苦。（saṃkli-ṣṭāsura-udīrita-duḥkhāś¶
-caprākcaturthyāḥ.）」¶
+ ca prāk caturthyāḥ.）」¶
 
 【〔註釋〕
 「阿修羅」（asura），魔神。¶
@@ -1481,8 +1480,8 @@ caprākcaturthyāḥ.）」¶
 「
 在它們之中，眾生生存的最長期限，（按七地¶
 層次，依次）為一、三、七、十、十七、二十二、三十三如海¶
-量。（teṣveka-tri-sapta-daśa-saptadaśa-dvāviṃśati-¶
-trayastriṃśatsāgaropamāsattvānāṃparāsthitiḥ.）」¶
+量。（teṣv eka-tri-sapta-daśa-saptadaśa-dvāviṃśati-¶
+trayastriṃśat sāgaropamā sattvānāṃ parā sthitiḥ.）」¶
 
 【〔註釋〕
 「如海量」（sāgaropama），是耆那教特有的數量單位。¶
@@ -1491,20 +1490,20 @@ trayastriṃśatsāgaropamāsattvānāṃparāsthitiḥ.）」¶
 
 §3.7
 「
-贍部洲、鹹海等均是有清淨名稱的大洲、大¶
-海。（jambūdvīpa-lavaṇādayaḥśubhanāmānodvīpa-¶
+贍部洲、咸海等均是有清淨名稱的大洲、大¶
+海。（jambūdvīpa-lavaṇādayaḥ śubhanāmāno dvīpa-¶
 samudrāḥ.）」¶
 
 §3.8
 「
 （這些大洲、大海）皆是環狀，幅員（依次）為¶
-前者的兩倍。（dvir-dvir-viṣkambhāḥpūrva-pūrva-¶
-parikṣepiṇovalayākṛtayaḥ.）」¶
+前者的兩倍。（dvir-dvir-viṣkambhāḥ pūrva-pūrva-¶
+parikṣepiṇo valayākṛtayaḥ.）」¶
 
 【〔註釋〕
 自§3.7至§3.18，論述地面的人世間。耆那教認¶
 為大地中央是圓形的贍部洲（jambūdvīpa），即我們現在生活的世¶
-界。贍部洲的外圍環繞著鹹海（lavaṇādayaḥ）。鹹海外面又是一圈大¶
+界。贍部洲的外圍環繞著咸海（lavaṇādayaḥ）。咸海外面又是一圈大¶
 洲，大洲外面又有一圈大海，如此共計九層。每一大洲大海的幅員
 <pb:KR6v0028_W_001-0388a>¶
 都是它所包攝的前一個大洲大海的兩倍。¶
@@ -1513,7 +1512,7 @@ parikṣepiṇovalayākṛtayaḥ.）」¶
 
 　1.贍部洲¶
 
-　　鹹海¶
+　　咸海¶
 
 　2.達塔契乾陀洲（dhātakīkhaṇḍa）¶
 
@@ -1532,8 +1531,8 @@ parikṣepiṇovalayākṛtayaḥ.）」¶
 §3.9
 「
 其中央為贍部洲，廣袤為百千由旬，以麥若¶
-山為臍。（tan-madhyemeru-nābhirvṛttoyojana-¶
-śatasahasra-viṣkambhojambūdvīpaḥ.）」¶
+山為臍。（tan-madhye meru-nābhir vṛtto yojana-¶
+śatasahasra-viṣkambho jambūdvīpaḥ.）」¶
 
 【〔註釋〕
 各洲、各海均呈環狀。唯有中央的贍部洲是圓形。贍¶
@@ -1543,8 +1542,8 @@ parikṣepiṇovalayākṛtayaḥ.）」¶
 「
 此（贍部洲）內有婆羅多地區、雪山地區、哈¶
 利地區、維德哈地區、拉姆耶伽地區、海拉奴耶瓦塔地區、¶
-愛拉瓦塔地區等（七個）區域。（tatrabharata-haimavata-¶
-hari-videha-ramyaka-hairaṇyavata-airāvatavarṣāḥkṣ¶
+愛拉瓦塔地區等（七個）區域。（tatra bharata-haimavata-¶
+hari-videha-ramyaka-hairaṇyavata-airāvatavarṣāḥ kṣ¶
 etrāṇi.）」¶
 
 【〔註釋〕
@@ -1559,8 +1558,8 @@ etrāṇi.）」¶
 分隔它們的是東西走向的雪山、大雪山、尼
 <pb:KR6v0028_W_001-0389a>¶
 夏達山、尼羅山、魯戈明山、西伽林山。（tad-vibhājinaḥ¶
-pūrvāparāyatāhimavan-mahāhimavan-niṣadha-nīla-¶
-rukmi-śikhariṇovarṣadhara-parvatāḥ.）」¶
+ pūrvāparāyatā himavan-mahāhimavan-niṣadha-nīla-¶
+rukmi-śikhariṇo varṣadhara-parvatāḥ.）」¶
 
 【〔註釋〕
 雪山（himavan）、大雪山（mahāhimavan）、尼夏達山¶
@@ -1576,24 +1575,24 @@ hemamayāḥ.）¶
 白衣派刊本沒有的內容。¶
 
 （§3.13）山坡上鑲有各種寶石，山頂的最廣部分與山腳的¶
-最廣部分相等。（maṇivicitra-pārśvāuparimūlecatulya-¶
+最廣部分相等。（maṇivicitra-pārśvā upari mūle ca tulya-¶
 vistārāḥ.）¶
 
 （§3.14）其上各有蓮池、大蓮池、底根恰池、坎夏哩池、大¶
 白蓮池、白蓮池。（padma-mahāpadma-tigiñcha-keśari-¶
-mahāpuṇḍarīka-puṇḍarīkahradāsteṣāmupari.）¶
+mahāpuṇḍarīka-puṇḍarīkahradās teṣām upari.）¶
 
 〔註釋〕
 這六個池分別在§3.11提到的六道山脈上。¶
 
 （§3.15）其第一池長為一千由旬，寬為長的一半。¶
-（prathamoyojana-sahasra-āyāmastad-ardhaviṣkambho¶
-hradaḥ.）¶
+（prathamo yojana-sahasra-āyāmas tad-ardhaviṣkambho¶
+ hradaḥ.）¶
 
 （§3.16）有十由旬深。（daśayojana-avagāhaḥ.）¶
 
 （§3.17）其中央有一由旬長的蓮花。（tan-madhye¶
-yojanaṃpuṣkaram.）¶
+ yojanaṃ puṣkaram.）¶
 
 〔註釋〕
 蓮花乃喻指池中島嶼的形狀。下節所謂的「蓮花」也¶
@@ -1601,7 +1600,7 @@ yojanaṃpuṣkaram.）¶
 
 （§3.18）（直到底根恰池的）池（各各）為（其前之池的）二
 <pb:KR6v0028_W_001-0390a>¶
-倍，其蓮花亦然。（tad-dviguṇa-dviguṇāhradāḥpuṣkarāṇica.）¶
+倍，其蓮花亦然。（tad-dviguṇa-dviguṇā hradāḥ puṣkarāṇi ca.）¶
 
 〔註釋〕
 「由旬」（yojana），印度長度單位，駕牛車走一天的路¶
@@ -1612,8 +1611,8 @@ yojanaṃpuṣkaram.）¶
 （§3.19）在這（六個島上），住有（六個）女神，（各各）為修¶
 哩、赫哩、篤哩底、基魯底、布底、羅戈修米。她們的壽量為一個巴利¶
 堯巴姆。她們與地位相當的天女及會眾共住。（tan-nivāsinyo¶
-devyaḥśrī-hrī-dhṛti-kīrti-buddhi-lakṣmyaḥpalyopama-¶
-sthitayaḥsa-sāmāni-kapariṣatkāḥ.）¶
+ devyaḥ śrī-hrī-dhṛti-kīrti-buddhi-lakṣmyaḥ palyopama-¶
+sthitayaḥ sa-sāmāni-kapariṣatkāḥ.）¶
 
 〔註釋〕
 修哩（śri）、赫哩（hrī）、篤哩底（dhṛti）、基魯底¶
@@ -1630,10 +1629,10 @@ sthitayaḥsa-sāmāni-kapariṣatkāḥ.）¶
 皮亞庫拉河、拉克達河、拉克托達河為流過（前述贍部洲七區）中¶
 央的河流。（gaṅgā-sindhu-rohid-rohitāsyā-harid-harikāntā-¶
 sītā-sītodā-nārī-narakāntā-suvarṇā-rūpyakūlā-raktā-¶
-raktodāḥsaritastan-madhyagāḥ.）¶
+raktodāḥ saritas tan-madhyagāḥ.）¶
 
 （§3.21）（這十四條河）每二條（在一區），其最初的（河）向¶
-東流。（dvayordvayoḥpūrvāḥpūrvagāḥ.）¶
+東流。（dvayor dvayoḥ pūrvāḥ pūrvagāḥ.）¶
 
 〔註釋〕
 「恆河」（gaṅgā）、「印度河」（sindhu）、「若赫德¶
@@ -1646,11 +1645,11 @@ raktodāḥsaritastan-madhyagāḥ.）¶
 婆羅多區為恆河與印度河。所謂「最初的河」，指婆羅多地區的第一¶
 條河，即恆河。¶
 
-（§3.22）其餘（的河）向西流。（śeṣāstvaparagāḥ.）¶
+（§3.22）其餘（的河）向西流。（śeṣās tv aparagāḥ.）¶
 
 （§3.23）恆河、印度河等（河流）被一萬四千條支流所包¶
-圍。（caturdaśa-nadī-sahasra-parivṛtāgaṅgā-sindhu-ādayo¶
-nadyaḥ.）¶
+圍。（caturdaśa-nadī-sahasra-parivṛtā gaṅgā-sindhu-ādayo¶
+ nadyaḥ.）¶
 
 〔註釋〕
 本節敘述恆河、印度河擁有的支流。據說，其它每個¶
@@ -1658,12 +1657,12 @@ nadyaḥ.）¶
 區的河流，均發源於（§3.14）提到的山頂大池。¶
 
 （§3.24）婆羅多地區的最廣部分為五百二十六又十九分¶
-之六由旬。（bharataḥṣaḍviṃśati-pañca-yojana-śata-vistarāḥ¶
-ṣaḍcai-'konaviṃśatibhāgāyojanasya.）¶
+之六由旬。（bharataḥ ṣaḍviṃśati-pañca-yojana-śata-vistarāḥ¶
+ ṣaḍ cai-'konaviṃśati bhāgā yojanasya.）¶
 
 （§3.25）直到維德哈地區，各（分割該地區的）山脈和諸地¶
 區的幅員，各為其（南方山脈及地區）的二倍。（tad-dviguṇa-¶
-dviguṇa-vistārāvarṣadhara-varṣāvidehāntāḥ.）¶
+dviguṇa-vistārā varṣadhara-varṣā videhāntāḥ.）¶
 
 〔註釋〕
 即大雪山山脈與雪山地區的幅員是雪山山脈與婆¶
@@ -1674,7 +1673,7 @@ dviguṇa-vistārāvarṣadhara-varṣāvidehāntāḥ.）¶
 山脈的兩倍；地區也是其南方地區的兩倍。¶
 
 （§3.26）（由維德哈地區）以北，與其南相等。（uttarā¶
-dakṣina-tulyāḥ.）¶
+ dakṣina-tulyāḥ.）¶
 
 〔註釋〕
 即維德哈地區以北各地區的寬度又逐漸縮小，與南¶
@@ -1690,7 +1689,7 @@ dakṣina-tulyāḥ.）¶
 
 （§3.27）婆羅多地區及愛拉瓦塔地區（的人的壽命、福祿、¶
 身長），按六時（劫）的增加與減少，而有長短變化。（bharata-¶
-airāvatayorvṛddhi-hrāsauṣaṭ-samayābhyāmutsarpiṇy-¶
+airāvatayor vṛddhi-hrāsau ṣaṭ-samayābhyām utsarpiṇy-¶
 avasarpiṇībhyām.）¶
 
 〔註釋〕
@@ -1717,7 +1716,7 @@ avasarpiṇībhyām.）¶
 <pb:KR6v0028_W_001-0393a>¶
 
 （§3.28）在這兩地區後面的諸地方，無變化。（tābhyām¶
-aparābhūmayo'vasthitāḥ.）¶
+ aparā bhūmayo 'vasthitāḥ.）¶
 
 〔註釋〕
 本節意為在婆羅多之北，愛拉瓦塔之南的各地區的¶
@@ -1725,7 +1724,7 @@ aparābhūmayo'vasthitāḥ.）¶
 
 （§3.29）雪山地區、哈利地區、提婆俱盧地區（的眾生），各¶
 各一定有一、二、三巴利堯姆量的壽量。（eka-dvi-tri-palyopama¶
--sthitayohaimavataka-hārivarṣaka-daivakuravakāḥ.）¶
+-sthitayo haimavataka-hārivarṣaka-daivakuravakāḥ.）¶
 
 （§3.30）其北，與之同樣。（tathottarāḥ.）¶
 
@@ -1736,10 +1735,10 @@ aparābhūmayo'vasthitāḥ.）¶
 的眾生的壽命固定為三個巴利堯巴姆。¶
 
 （§3.31）在維德哈地區，壽命是可以計算的。（videheṣu¶
-saṃkhyeya-kālāḥ.）¶
+ saṃkhyeya-kālāḥ.）¶
 
 （§3.32）婆羅多地區的面積為全部贍部洲的一百九十分¶
-之一。（bharatasyaviṣkambhojambūdvīpasyanavati-śata-¶
+之一。（bharatasya viṣkambho jambūdvīpasya navati-śata-¶
 bhāgaḥ.）¶
 
 〔註釋〕
@@ -1750,7 +1749,7 @@ bhāgaḥ.）¶
 §3.12
 「
 達塔契乾陀洲為兩倍。（dvir¶
-dhātakīkhaṇḍe.）」¶
+ dhātakīkhaṇḍe.）」¶
 
 【〔註釋〕
 本節意為環繞在鹹海之外的達塔契乾陀洲的面積¶
@@ -1758,7 +1757,7 @@ dhātakīkhaṇḍe.）」¶
 
 §3.13
 「
-浦濕卡羅洲之半亦然。（puṣkarārdheca.）」¶
+浦濕卡羅洲之半亦然。（puṣkarārdhe ca.）」¶
 
 【〔註釋〕
 本節意為浦濕卡羅洲之半即為贍部洲的兩倍，亦即¶
@@ -1767,8 +1766,8 @@ dhātakīkhaṇḍe.）」¶
 
 §3.14
 「
-直到摩奴消達羅山之間有人。（prāṅmānuṣ¶
-ottarānmanuṣyāḥ.）」¶
+直到摩奴消達羅山之間有人。（prāṅ mānuṣ¶
+ottarān manuṣyāḥ.）」¶
 
 【〔註釋〕
 摩奴消達羅（mānuṣottarā）山是位於浦濕卡羅洲中¶
@@ -1777,7 +1776,7 @@ ottarānmanuṣyāḥ.）」¶
 
 §3.15
 「
-為雅利安人和姆利修人。（āryāmliśaśca.）」¶
+為雅利安人和姆利修人。（āryā mliśaś ca.）」¶
 
 【〔註釋〕
 耆那教把婆羅多分成六個地區，認為在中央地區居¶
@@ -1789,7 +1788,7 @@ ottarānmanuṣyāḥ.）」¶
 「
 除了提婆俱盧及烏達拉俱盧之外，婆羅多¶
 地區、愛拉瓦塔地區和維德哈地區是業地。（bharata-¶
-airāvata-videhāḥkarma-bhūmayo'nyatradevakuru-¶
+airāvata-videhāḥ karma-bhūmayo 'nyatra devakuru-¶
 uttarakuru-bhyaḥ.）」¶
 
 【〔註釋〕
@@ -1799,7 +1798,7 @@ uttarakuru-bhyaḥ.）」¶
 §3.17
 「
 人的壽命由最長的三個巴利堯巴姆到最短¶
-的安達爾姆蒲爾達。（nṛsthitīparāparetripalyopama-¶
+的安達爾姆蒲爾達。（nṛsthitī parāpare tripalyopama-¶
 antarmuhūrte.）」¶
 
 【〔註釋〕
@@ -1811,13 +1810,13 @@ antarmuhūrte.）」¶
 
 §3.18
 「
-傍生亦然。（tiryagyonīnāṃca.）」¶
+傍生亦然。（tiryagyonīnāṃ ca.）」¶
 
 【〔註釋〕
 傍生即畜生。生活在這兒的畜生的壽命與人的壽命¶
 一樣。¶
 
-在空衣派的刊本中，本節作「tiryagyonījānāṃca」，意義相同。】
+在空衣派的刊本中，本節作「tiryagyonījānāṃ ca」，意義相同。】
 <pb:KR6v0028_W_001-0395a>¶
 ¶
 
@@ -1825,7 +1824,7 @@ antarmuhūrte.）」¶
 
 §4.1
 「
-諸天分為四群。（devāscatur-nikāyāḥ.）」¶
+諸天分為四群。（devās catur-nikāyāḥ.）」¶
 
 【〔註釋〕
 本章論述天界的情況及眾神。關於四群諸天（deva，¶
@@ -1833,12 +1832,12 @@ antarmuhūrte.）」¶
 
 §4.2
 「
-第三群心的色彩是黃色的。（tṛtīyaḥpīta-¶
+第三群心的色彩是黃色的。（tṛtīyaḥ pīta-¶
 leśyaḥ.）」¶
 
 【〔註釋〕
 在空衣派的刊本中，此節為：「從第一群到第三群，¶
-最終的色彩是黃色的。」（āditastriṣupītānta-leśyāḥ.）意為：第一¶
+最終的色彩是黃色的。」（āditas triṣu pītānta-leśyāḥ.）意為：第一¶
 群心的色彩是黑色的，第二群心的色彩是青色的，第三群心的色彩¶
 是黃色的。】¶
 
@@ -1846,7 +1845,7 @@ leśyaḥ.）」¶
 「
 直到迦爾巴住神為止，各各分為十、八、五、¶
 十二。（daśa-aṣṭa-pañca-dvādaśa-vikalpāḥ¶
-kalpopapanna-paryantāḥ.）」¶
+ kalpopapanna-paryantāḥ.）」¶
 
 【〔註釋〕
 本節意為從第一群神開始，到第四群神中的迦爾巴¶
@@ -1859,7 +1858,7 @@ kalpopapanna-paryantāḥ.）」¶
 兵、世界的保護者、士兵、民眾、僕役、罪人（之分）。（indra¶
 -sāmānika-trāyastriṃśa-pāriṣadya-ātmarakṣa-¶
 lokapāla-anīka-prakīrṇaka-ābhiyogya-kilbiṣikāś¶
-caikaśaḥ.）」¶
+ caikaśaḥ.）」¶
 
 【〔註釋〕
 「因陀羅」（indra），即王；「諸侯」（sāmānika）；「三十三¶
@@ -1878,7 +1877,7 @@ caikaśaḥ.）」¶
 §4.5
 「
 中間住神與星光神中沒有三十三天及世界¶
-的保護者。（trāyastriṃśa-lokapāla-varjyāvyantara-¶
+的保護者。（trāyastriṃśa-lokapāla-varjyā vyantara-¶
 jyotiṣkāḥ.）」¶
 
 【〔註釋〕
@@ -1887,7 +1886,7 @@ jyotiṣkāḥ.）」¶
 §4.6
 「
 最初之二，各有兩位因陀羅。（pūrvayor¶
-dvīndrāḥ.）」¶
+ dvīndrāḥ.）」¶
 
 【〔註釋〕
 本節意為在第一群及第二群的各類諸神中，每類各¶
@@ -1909,7 +1908,7 @@ dvīndrāḥ.）」¶
 §4.8
 「
 直到阿依夏那神，都進行肉體的交媾。（kāya¶
--pravīcārāāaiśānāt.）」¶
+-pravīcārā ā aiśānāt.）」¶
 
 【〔註釋〕
 阿依夏那（aiśāna）神是第四群神中的第二類。¶
@@ -1921,8 +1920,8 @@ dvīndrāḥ.）」¶
 「
 其餘，每兩位神相互僅用接觸、相望、相語、
 <pb:KR6v0028_W_001-0397a>¶
-思念即可得性的滿足。（śeṣāḥsparśa-rūpa-śabda-manaḥ¶
--pravīcārādvayordvayoḥ.）」¶
+思念即可得性的滿足。（śeṣāḥ sparśa-rūpa-śabda-manaḥ¶
+-pravīcārā dvayor dvayoḥ.）」¶
 
 【〔註釋〕
 即從第四群神的第三類開始，那些神雖有性欲，但¶
@@ -1930,11 +1929,11 @@ dvīndrāḥ.）」¶
 
 佛教也有類似的說法。¶
 
-在空衣派的刊本中，無「每兩位相互（dvayordvayoḥ）」一詞。】¶
+在空衣派的刊本中，無「每兩位相互（dvayor dvayoḥ）」一詞。】¶
 
 §4.10
 「
-最高無性欲。（pare'pravīcārāḥ.）」¶
+最高無性欲。（pare 'pravīcārāḥ.）」¶
 
 【〔註釋〕
 「最高」，指最高神，即超迦爾巴住神。參見§4.17、¶
@@ -1944,7 +1943,7 @@ dvīndrāḥ.）」¶
 「
 宮住神有阿修羅童子、那伽童子、電光童¶
 子、妙翅童子、火童子、風童子、雷童子、巨海童子、洲童¶
-子、方位童子（等十類）。（bhavana-vāsino'sura-nāga-¶
+子、方位童子（等十類）。（bhavana-vāsino 'sura-nāga-¶
 vidyut-suparṇa-agni-vāta-stanita-udadhi-dvīpa-¶
 dikkumārāḥ.）」¶
 
@@ -1960,7 +1959,7 @@ dikkumārāḥ.）」¶
 §4.12
 「
 中間住神有緊那羅、妖魔、大螭、乾闥婆、藥¶
-叉、羅叉、部多鬼、比舍者鬼（等八類）。（vyantarāḥkinnara¶
+叉、羅叉、部多鬼、比舍者鬼（等八類）。（vyantarāḥ kinnara¶
 -kimpuruṣa-mahoraga-gāndharva-yakṣa-rākṣasa-¶
 bhūta-piśācāḥ.）」¶
 
@@ -1976,8 +1975,8 @@ bhūta-piśācāḥ.）」¶
 §4.13
 「
 星光神有日、月、行星、星宿、離散星（等五¶
-類）。（jyotiṣkāḥsūryāścandramasograha-nakṣatra-¶
-prakīrṇatrakāśca.）」¶
+類）。（jyotiṣkāḥ sūryāś candramaso graha-nakṣatra-¶
+prakīrṇat rakāś ca.）」¶
 
 【〔註釋〕
 在空衣派的刊本中，將日、月合寫作¶
@@ -1990,12 +1989,12 @@ prakīrṇatrakāśca.）」¶
 
 §4.15
 「
-時間即用它們來區分。（tat-kṛtaḥkāla-¶
+時間即用它們來區分。（tat-kṛtaḥ kāla-¶
 vibhāgaḥ.）」¶
 
 §4.16
 「
-在外部的，則固定不動。（bahiravasthitāḥ.）」¶
+在外部的，則固定不動。（bahir avasthitāḥ.）」¶
 
 【〔註釋〕
 「星光神」（jyotiṣka）即前述第三群神。有¶
@@ -2011,11 +2010,11 @@ vibhāgaḥ.）」¶
 §4.18
 「
 分迦爾巴住神及超迦爾巴住神。¶
-（kalpopapannāḥkalpātītāśca.）」¶
+（kalpopapannāḥ kalpātītāś ca.）」¶
 
 §4.19
 「
-在上方層層重迭。（uparyupari.）」¶
+在上方層層重迭。（upary upari.）」¶
 
 §4.20
 「
@@ -2025,20 +2024,20 @@ vibhāgaḥ.）」¶
 天、勝利天、無敗天、一切義成天。（saudharma-aiśāna-¶
 sanatkumāra-māhendra-brahmaloka-lāntaka-
 <pb:KR6v0028_W_001-0399a>¶
-mahāśukra-sahasrāresvānata-prāṇatayorāraṇa-¶
-acyutayornavasugraiveyeṣuvijaya-vaijayanta-jayanta-¶
-aparājiteṣusarvārthasiddheca.）」¶
+mahāśukra-sahasrāresv ānata-prāṇatayor āraṇa-¶
+acyutayor navasugraiveyeṣu vijaya-vaijayanta-jayanta-¶
+aparājiteṣu sarvārthasiddhe ca.）」¶
 
 【〔註釋〕
 「空行神」（vaimānika），即前述第四群神。它分迦爾¶
-巴（kalpā）住神與超迦爾巴住神（kalpātīta）兩種。迦爾巴住神，如¶
+巴（kalpā ）住神與超迦爾巴住神（kalpātīta）兩種。迦爾巴住神，如¶
 §4.3所述，共分十二種，即：「善法天」（saudharma）、「自在主¶
 天」（aiśāna）、「常童子天」（sanatkumāra）、「大因陀羅¶
 天」（māhendra）、「梵天界」（brahmaloka）、「朗闥伽天」（lāntaka）、¶
 「大白天」（mahāśukra）、「千輻條天」（sahasrāresv）、「阿納達¶
 天」（ānata）、「浦拉納達天」（prāṇata）、「深淵天」（āraṇa）、「不退¶
 天」（acyuta）。超迦爾巴住神分六種，即：「九之頸飾天」（navasu¶
-graivaya）、「最勝天」（vijaya）、「殊勝天」（vaijayanta）、「勝利¶
+ graivaya）、「最勝天」（vijaya）、「殊勝天」（vaijayanta）、「勝利¶
 天」（jayanta）、「無敗天」（apayājita）、「一切義成¶
 天」（sarvārthasiddha）。這十八種天神層層安置，一層比一層高。¶
 
@@ -2055,7 +2054,7 @@ graivaya）、「最勝天」（vijaya）、「殊勝天」（vaijayanta）、�
 壽量、力量、快樂量、光明量、色彩的清淨¶
 度、根的能力、直觀智的對境（依次）增大。（sthiti-¶
 prabhāva-sukha-dyuti-leśyāviśuddhi-indriya-¶
-avadhiviṣayato'dhikaḥ.）」¶
+avadhiviṣayato 'dhikaḥ.）」¶
 
 【〔註釋〕
 這十八種天，每種天所具有的壽量、力量等各方面¶
@@ -2065,7 +2064,7 @@ avadhiviṣayato'dhikaḥ.）」¶
 §4.22
 「
 行動的領域、身量、所持、增上慢逐漸減少。¶
-（gati-śarīra-parigraha-abhimānatohīnāḥ.）」¶
+（gati-śarīra-parigraha-abhimānato hīnāḥ.）」¶
 
 【〔註釋〕
 「慢」（māna），意謂傲慢自負。「增上¶
@@ -2077,13 +2076,13 @@ avadhiviṣayato'dhikaḥ.）」¶
 
 空衣派的某寫本在本節下還有「且可根據氣息、食、感受、突發¶
 力、威力來推斷（這些神的區別）。」（ucchvāsa-āhara-vedanā-¶
-upapāta-anubhāvataścasādhyāḥ.）但研究者一般認為這句話恐怕¶
+upapāta-anubhāvataś ca sādhyāḥ.）但研究者一般認為這句話恐怕¶
 是由註釋竄入正文的，故連空衣派一般也不承認它。】¶
 
 §4.23
 「
 （而）黃、紅、白的色彩，在於二種、三種、餘¶
-種。（pīta-padma-śukla-leśyādvi-tri-śeṣeṣu.）」¶
+種。（pīta-padma-śukla-leśyā dvi-tri-śeṣeṣu.）」¶
 
 【〔註釋〕
 本節意為，在迦爾巴住神中，前二種神的心的色彩¶
@@ -2093,7 +2092,7 @@ upapāta-anubhāvataścasādhyāḥ.）但研究者一般認為這句話恐怕¶
 §4.24
 「
 頸飾天之前的諸天為迦爾巴住神。（prāg¶
-graiveyakebhyaḥkalpāḥ.）」¶
+ graiveyakebhyaḥ kalpāḥ.）」¶
 
 【〔註釋〕
 見§4.20的註釋。】¶
@@ -2101,7 +2100,7 @@ graiveyakebhyaḥkalpāḥ.）」¶
 §4.25
 「
 世終天住於梵天界。（brahmalokālayā¶
-lokāntikāḥ.）」¶
+ lokāntikāḥ.）」¶
 
 【〔註釋〕
 「世終天」（lokāntika），指祇要再降生人間一次就可¶
@@ -2114,7 +2113,7 @@ lokāntikāḥ.）」¶
 天、兜率天、無害天、無傷天。（sārasvata-āditya-vahny-¶
 aruṇa-gardatoya-tuṣita-avyābādha-〔marutaḥ〕-
 <pb:KR6v0028_W_001-0401a>¶
-ariṣṭāśca.）」¶
+ariṣṭāś ca.）」¶
 
 【〔註釋〕
 本節意為世終天又可分作如下八種：「水¶
@@ -2127,7 +2126,7 @@ ariṣṭāśca.）」¶
 
 §4.27
 「
-最勝天等二次之後。（vijayādiṣudvi-¶
+最勝天等二次之後。（vijayādiṣu dvi-¶
 caramāḥ.）」¶
 
 【〔註釋〕
@@ -2138,7 +2137,7 @@ caramāḥ.）」¶
 §4.28
 「
 所謂傍生是指化生及人之外的（其它）生¶
-物。（aupapātika-manuṣyebhyaḥśeṣāstiryagyonayaḥ.）」¶
+物。（aupapātika-manuṣyebhyaḥ śeṣās tiryagyonayaḥ.）」¶
 
 【〔註釋〕
 這一節解釋什麼是傍生，插得比較突然。「傍生」又¶
@@ -2157,8 +2156,8 @@ caramāḥ.）」¶
 故將此節作為§4.28，內容如下：¶
 
 （§4.28）壽量，阿修羅為一個如海量，那伽為三個巴利堯¶
-巴姆，妙翅及洲及其它（逐次）減半個巴利堯巴姆。（sthitirasura-¶
-nāga-suparṇa-dvīpa-śeṣāṇāṃsāgaropama-tripalyopama-¶
+巴姆，妙翅及洲及其它（逐次）減半個巴利堯巴姆。（sthitir asura-¶
+nāga-suparṇa-dvīpa-śeṣāṇāṃ sāgaropama-tripalyopama-¶
 arddhahīnamitā.）¶
 
 這裡講的是第一群天神，即宮住神的壽量。參見§4.11。所謂
@@ -2170,13 +2169,13 @@ arddhahīnamitā.）¶
 §4.30
 「
 對宮住神，住於南方那一半地區的王位神¶
-有一又二分之一個巴利堯巴姆。（bhavaneṣudakṣiṇārdha-¶
-adhipatīnāṃpalyopamamadhy-ardham.）」¶
+有一又二分之一個巴利堯巴姆。（bhavaneṣu dakṣiṇārdha-¶
+adhipatīnāṃ palyopamam adhy-ardham.）」¶
 
 §4.31
 「
 其餘有一又四分之三個巴利堯巴姆。（śeṣāṇ¶
-āmpādone.）」¶
+ām pādone.）」¶
 
 【〔註釋〕
 這兩節承接§4.29，論述第一群宮住神的壽命。王¶
@@ -2190,13 +2189,13 @@ adhipatīnāṃpalyopamamadhy-ardham.）」¶
 §4.32
 「
 （但）阿修羅童子的二位因陀羅，一位為一¶
-個如海量，另一位更多。（asurendrayoḥsāgaropamam¶
-adhikaṃca.）」¶
+個如海量，另一位更多。（asurendrayoḥ sāgaropamam¶
+ adhikaṃ ca.）」¶
 
 §4.33
 「
 自善法天開始，順次增大。（saudharmādiṣu¶
-yathākramam.）」¶
+ yathākramam.）」¶
 
 【〔註釋〕
 本節論述第四群天神的壽命。第二、三兩群天神的¶
@@ -2209,7 +2208,7 @@ yathākramam.）」¶
 
 §4.35
 「
-比這更多。（adhikeca.）」¶
+比這更多。（adhike ca.）」¶
 
 【〔註釋〕
 本節意為自在主天的壽量比善法天更多。¶
@@ -2219,11 +2218,11 @@ yathākramam.）」¶
 <pb:KR6v0028_W_001-0403a>¶
 
 （§4.29）善法天與自在主天（的壽量）超過兩個如海量。¶
-（saudharmaiśānayoḥsāgaropame'dhike.）】¶
+（saudharmaiśānayoḥ sāgaropame 'dhike.）】¶
 
 §4.36
 「
-常童子天為七。（saptasanatkumāre.）」¶
+常童子天為七。（sapta sanatkumāre.）」¶
 
 【〔註釋〕
 即七個如海量。¶
@@ -2231,13 +2230,13 @@ yathākramam.）」¶
 空衣派刊本此節為：¶
 
 （§4.30）常童子天與大因陀羅天俱為七（個如海量）。¶
-（sānatkumāra-māhendrayoḥsapta.）】¶
+（sānatkumāra-māhendrayoḥ sapta.）】¶
 
 §4.37
 「
 按照超過三、七、十、十一、十三、十五而增¶
 加。（viśeṣa-tri-sapta-daśa-ekādaśa-trayodaśa-¶
-pañcadaśabhiradhikānica.）」¶
+pañcadaśabhir adhikāni ca.）」¶
 
 【〔註釋〕
 據作者原註，此節意為：大因陀羅天的壽命超過七¶
@@ -2250,7 +2249,7 @@ pañcadaśabhiradhikānica.）」¶
 但空衣派的刊本此節如下：¶
 
 （§4.31）按照三、七、九、十一、十三、十五而增加。（tri-¶
-sapta-nava-ekādaśa-trayodaśa-pañcadaśabhiradhikānitu.）¶
+sapta-nava-ekādaśa-trayodaśa-pañcadaśabhir adhikāni tu.）¶
 
 空衣派認為第四群十六種天神（見§4.20的註釋）中的第五、¶
 六兩種的壽命是七加三即十個如海量；第七、八兩種天神的壽命是¶
@@ -2264,8 +2263,8 @@ sapta-nava-ekādaśa-trayodaśa-pañcadaśabhiradhikānitu.）¶
 從深淵天、不退天以上，到九之頸飾天、最¶
 勝天以上，乃至一切義成天，各各（增加）一。（āraṇa-
 <pb:KR6v0028_W_001-0404a>¶
-acyutādūrdhvamekaikenanavasugraiveyakeṣuvijayādiṣu¶
-sarvārthasiddheca.）」¶
+acyutād ūrdhvam ekaikena navasu graiveyakeṣu vijayādiṣu¶
+ sarvārthasiddhe ca.）」¶
 
 【〔註釋〕
 本節意為從九之頸飾天開始，到一切義成天，每一¶
@@ -2276,7 +2275,7 @@ sarvārthasiddheca.）」¶
 §4.39
 「
 最短為一個巴利堯巴姆及超過它。（aparā¶
-palyopamaṃadhikaṃca.）」¶
+ palyopamaṃ adhikaṃ ca.）」¶
 
 【〔註釋〕
 前面講的均是諸天神的最長壽命，本節開始論述諸¶
@@ -2294,7 +2293,7 @@ palyopamaṃadhikaṃca.）」¶
 
 §4.41
 「
-而略多。（adhikeca.）」¶
+而略多。（adhike ca.）」¶
 
 【〔註釋〕
 本節意為大因陀羅天的最短壽命要略多於常童子¶
@@ -2303,8 +2302,8 @@ palyopamaṃadhikaṃca.）」¶
 §4.42
 「
 對以上諸天，依次以前一個的最長壽命為¶
-後一個的最短壽命。（parataḥparataḥpūrvāpūrvā¶
-'nantararā.）」¶
+後一個的最短壽命。（parataḥ parataḥ pūrvā pūrvā¶
+ 'nantararā.）」¶
 
 【〔註釋〕
 即梵天界的最短壽命與大因陀羅天的最長壽命相¶
@@ -2317,7 +2316,7 @@ palyopamaṃadhikaṃca.）」¶
 §4.43
 「
 即使在地獄界，於第二地以下，亦如此。¶
-（nārakāṇāṃcadvitīyādiṣu.）」¶
+（nārakāṇāṃ ca dvitīyādiṣu.）」¶
 
 【〔註釋〕
 本節意為地獄界最短壽命的計算法與天界的計算
@@ -2329,8 +2328,8 @@ palyopamaṃadhikaṃca.）」¶
 
 §4.44
 「
-第一地為一萬歲。（daśavarṣa-sahasrāṇi¶
-prathamāyām.）」¶
+第一地為一萬歲。（daśa varṣa-sahasrāṇi¶
+ prathamāyām.）」¶
 
 【〔註釋〕
 §4.43的計算法祇解決了地獄界從第二地至第七¶
@@ -2339,12 +2338,12 @@ prathamāyām.）」¶
 
 §4.45
 「
-即使對宮住神，也如此。（bhavaneṣuca.）」¶
+即使對宮住神，也如此。（bhavaneṣu ca.）」¶
 
 §4.46
 「
 即使對中間住神，也如此。（vyantarāṇāṃ¶
-ca.）」¶
+ ca.）」¶
 
 【〔註釋〕
 這兩節意為天界的第一群神宮住神及第二群神中¶
@@ -2356,7 +2355,7 @@ ca.）」¶
 §4.47
 「
 最長壽為一巴利堯巴姆。（parā¶
-palyopamam.）」¶
+ palyopamam.）」¶
 
 【〔註釋〕
 本節意為天界第二群神中間住神的最長壽是一個¶
@@ -2365,11 +2364,11 @@ palyopamam.）」¶
 空衣派刊本此節略有不同，為：¶
 
 （§4.39）最長壽比一個巴利堯巴姆更多。（parā¶
-palyopamamadhikam.）】¶
+ palyopamam adhikam.）】¶
 
 §4.48
 「
-星光神比那增加。（jyotiṣkāṇāmadhikam.）」¶
+星光神比那增加。（jyotiṣkāṇām adhikam.）」¶
 
 【〔註釋〕
 本節意為第三群神星光神的最長壽命大於一個巴¶
@@ -2377,7 +2376,7 @@ palyopamamadhikam.）】¶
 
 空衣派刊本此節為：¶
 
-（§4.40）星光神亦然。（jyotiṣkānāṃca.）
+（§4.40）星光神亦然。（jyotiṣkānāṃ ca.）
 <pb:KR6v0028_W_001-0406a>¶
 
 因空衣派刊本之（§4.39）稱中間住神的最長壽超過一個巴¶
@@ -2386,7 +2385,7 @@ palyopamamadhikam.）】¶
 
 §4.49
 「
-行星為一。（grahāṇāmekam.）」¶
+行星為一。（grahāṇām ekam.）」¶
 
 【〔註釋〕
 本節意為行星的最長壽命為一個巴利堯巴姆。】¶
@@ -2394,17 +2393,17 @@ palyopamamadhikam.）】¶
 §4.50
 「
 對星宿（而言），為其半。（nakṣatrāṇām¶
-ardham.）」¶
+ ardham.）」¶
 
 §4.51
 「
 對離散星（而言），為其四分之一。（tārakāṇāṃ¶
-caturbhāgaḥ.）」¶
+ caturbhāgaḥ.）」¶
 
 §4.52
 「
-而最短量為八分之一。（jaghanyātv¶
-aṣṭabhāgaḥ.）」¶
+而最短量為八分之一。（jaghanyā tv¶
+ aṣṭabhāgaḥ.）」¶
 
 【〔註釋〕
 §4.50指星宿的最長壽命，是半個巴利堯巴姆。¶
@@ -2418,7 +2417,7 @@ aṣṭabhāgaḥ.）」¶
 §4.53
 「
 以外的為四分之一。（caturbhāgaḥ¶
-śeṣāṇām.）」¶
+ śeṣāṇām.）」¶
 
 【〔註釋〕
 本節意為離散星之外的星光神的最短壽命為四分¶
@@ -2426,12 +2425,12 @@ aṣṭabhāgaḥ.）」¶
 
 空衣派刊本無§4.49至§4.53諸節，代之以：¶
 
-（§4.41）最短壽為其八分之一。（tad-aṣṭabhāgo'parā.）¶
+（§4.41）最短壽為其八分之一。（tad-aṣṭabhāgo 'parā.）¶
 
 　意為星光神的最短壽命是八分之一個巴利堯巴姆。¶
 
 （§4.42）一切世終天俱為八個如海量。（laukāntikānām¶
-aṣṭausāgaropamāṇisarveṣām.）¶
+ aṣṭau sāgaropamāṇi sarveṣām.）¶
 
 綜上所述，白衣派刊本本章共計五十三節，空衣派刊本本章共
 <pb:KR6v0028_W_001-0407a>¶
@@ -2443,7 +2442,7 @@ aṣṭausāgaropamāṇisarveṣām.）¶
 §5.1
 「
 法、非法、虛空、補特伽羅是非命的身。（ajīva¶
--kāyādharma-adharma-ākāśa-pudgalāḥ.）」¶
+-kāyā dharma-adharma-ākāśa-pudgalāḥ.）」¶
 
 【〔註釋〕
 本章主要論述非命。¶
@@ -2474,7 +2473,7 @@ aṣṭausāgaropamāṇisarveṣām.）¶
 
 §5.2
 「
-這些與命都是實體。（dravyāṇijīvāśca.）」¶
+這些與命都是實體。（dravyāṇi jīvāś ca.）」¶
 
 【〔註釋〕
 命、非命是耆那教總括世界的兩個基本範疇，一個
@@ -2488,7 +2487,7 @@ aṣṭausāgaropamāṇisarveṣām.）¶
 §5.3
 「
 是常住的、無色的。（nityāvasthitāny¶
-arūpāṇi.）」¶
+ arūpāṇi.）」¶
 
 【〔註釋〕
 「常住」（nityāvasthita）是與變化、無常相對的一個概¶
@@ -2499,7 +2498,7 @@ arūpāṇi.）」¶
 §5.4
 「
 （但）補特伽羅是有色的。（rūpiṇaḥ¶
-pudgalāḥ.）」¶
+ pudgalāḥ.）」¶
 
 【〔註釋〕
 本節意為補特伽羅有質礙，有一定的形體。¶
@@ -2523,8 +2522,8 @@ pudgalāḥ.）」¶
 
 §5.5
 「
-直至虛空為單一的實體。（āākāśād¶
-ekadravyāṇi.）」¶
+直至虛空為單一的實體。（ā ākāśād¶
+ ekadravyāṇi.）」¶
 
 【〔註釋〕
 本節意為法、非法、虛空三個實體是單一的。即它們各¶
@@ -2533,7 +2532,7 @@ ekadravyāṇi.）」¶
 
 §5.6
 「
-且無作。（niṣkriyāṇica.）」¶
+且無作。（niṣkriyāṇi ca.）」¶
 
 【〔註釋〕
 「無作」（niṣkriya），即不活動，不造作。本節意為法、¶
@@ -2543,7 +2542,7 @@ ekadravyāṇi.）」¶
 §5.7
 「
 法、非法的微點是無數的。（asaṃkhyeyāḥ¶
-pradeśādharmādharmayoḥ.）」¶
+ pradeśā dharmādharmayoḥ.）」¶
 
 【〔註釋〕
 「微點」（pradeśa），耆那教專用術語，指一個原子所能¶
@@ -2553,7 +2552,7 @@ pradeśādharmādharmayoḥ.）」¶
 
 §5.8
 「
-命的（微點，也是無數的）。（jīvasyaca.）」¶
+命的（微點，也是無數的）。（jīvasya ca.）」¶
 
 【〔註釋〕
 命中也同樣有無數個微點。¶
@@ -2561,7 +2560,7 @@ pradeśādharmādharmayoḥ.）」¶
 空衣派刊本把§5.7與§5.8合為一節，作為：¶
 
 （§5.8）法、非法、命的微點是無數的。（asaṃkhyeyāḥ¶
-pradeśāḥdharmādharmaikajīvanām.）¶
+ pradeśāḥ dharmādharmaikajīvanām.）¶
 
 故從下一節起，兩種刊本的編號一致。參見§5.2的註釋。】¶
 
@@ -2576,8 +2575,8 @@ pradeśāḥdharmādharmaikajīvanām.）¶
 §5.10
 「
 補特伽羅（的微點，分成）能計量的、不能計¶
-量的、（和無限的三種）。（saṃkhyeya-asaṃkhyeyāśca¶
-pudgalānām.）」
+量的、（和無限的三種）。（saṃkhyeya-asaṃkhyeyāś ca¶
+ pudgalānām.）」
 <pb:KR6v0028_W_001-0410a>¶
 
 【〔註釋〕
@@ -2595,7 +2594,7 @@ pudgalānām.）」
 
 §5.12
 「
-存在於世界空中。（lokākāśe'vagāhaḥ.）」¶
+存在於世界空中。（lokākāśe 'vagāhaḥ.）」¶
 
 【〔註釋〕
 「世界空」（lokākāśa）是耆那教哲學特有的概念，與¶
@@ -2608,7 +2607,7 @@ pudgalānām.）」
 §5.13
 「
 （即）法、非法的是全（部世界空）。¶
-（dharmādharmayoḥkṛtsne.）」¶
+（dharmādharmayoḥ kṛtsne.）」¶
 
 【〔註釋〕
 本節意為法、非法存在於全部世界空中，亦即整個¶
@@ -2617,7 +2616,7 @@ pudgalānām.）」
 §5.14
 「
 補特伽羅的份，存在於一微點等中。¶
-（ekapradeśādiṣubhājyaḥpudgalāṅām.）」¶
+（ekapradeśādiṣu bhājyaḥ pudgalāṅām.）」¶
 
 【〔註釋〕
 「份」（bhājya），指被分割後的補特伽羅的某一部分。¶
@@ -2630,7 +2629,7 @@ pudgalānām.）」
 §5.15
 「
 命的（份）存在於（世界空的）無限的部分等¶
-中。（asaṃkhyeya-bhāgādiṣujīvānām.）」¶
+中。（asaṃkhyeya-bhāgādiṣu jīvānām.）」¶
 
 【〔註釋〕
 耆那教認為世界空就其總體來說是有限的，但就其¶
@@ -2644,7 +2643,7 @@ pudgalānām.）」
 「
 就像燈光一樣，可憑借收集或放射其微點¶
 的方式，（佔據空間）。（pradeśa-saṃ-hāra-visargābhyāṃ¶
-pradīpavat.）」¶
+ pradīpavat.）」¶
 
 【〔註釋〕
 本節意為，命可以憑借收集或放射其微點的方式，¶
@@ -2659,8 +2658,8 @@ pradīpavat.）」¶
 §5.17
 「
 法與非法的功能，提供了進行或停止的必¶
-要條件。（gati-sthity-upagrahodharmādharmayor¶
-upakāraḥ.）」¶
+要條件。（gati-sthity-upagraho dharmādharmayor¶
+ upakāraḥ.）」¶
 
 【〔註釋〕
 本節意為命與補特伽羅的任何活動，或停止活動，¶
@@ -2675,7 +2674,7 @@ avagāhaḥ.）」¶
 「
 補特伽羅的（功能）在於（構成）身、語、意、¶
 呼、吸。（śarīra-vāṅ-manaḥ-prāṇa-apānāḥ¶
-pudgalānām.）」¶
+ pudgalānām.）」¶
 
 【〔註釋〕
 本節指出補特伽羅不僅能構成人的肉體，還能構成¶
@@ -2694,7 +2693,7 @@ pudgalānām.）」¶
 §5.20
 「
 且是苦、樂、生、死的必要條件。（sukha-¶
-duḥkha-jīvita-maraṇa-upagrahāśca.）」¶
+duḥkha-jīvita-maraṇa-upagrahāś ca.）」¶
 
 【〔註釋〕
 本節意為補特伽羅是人們感受苦樂、經驗生死的必¶
@@ -2703,7 +2702,7 @@ duḥkha-jīvita-maraṇa-upagrahāśca.）」¶
 §5.21
 「
 命的（功能）在於（它們）互為必要條件。¶
-（paraspara-upagrahojīvānām.）」¶
+（paraspara-upagraho jīvānām.）」¶
 
 【〔註釋〕
 耆那教認為命並非單一的整體，它在數量上是無限¶
@@ -2713,8 +2712,8 @@ duḥkha-jīvita-maraṇa-upagrahāśca.）」¶
 §5.22
 「
 時間的（功能）存在於延續、轉變、所作及長¶
-短等之中。（vartanāpariṇāmaḥkriyāparatva-aparatveca¶
-kālasya.）」¶
+短等之中。（vartanā pariṇāmaḥ kriyā paratva-aparatve ca¶
+ kālasya.）」¶
 
 【〔註釋〕
 耆那教的理論家們對時間的解釋不太一樣。空衣派¶
@@ -2726,7 +2725,7 @@ kālasya.）」¶
 §5.23
 「
 補特伽羅具有觸、味、香、色。（sparśa-rasa¶
--gandha-varṇavantaḥpudgalāḥ.）」¶
+-gandha-varṇavantaḥ pudgalāḥ.）」¶
 
 【〔註釋〕
 本節意為補特伽羅具有「觸」（sparśa）、「味」（rasa）、¶
@@ -2739,7 +2738,7 @@ kālasya.）」¶
 並具有聲、結合、細微、粗大、形狀、可分、¶
 闇、影、熱、光。（śabda-bandha-saukṣmya-sthaulya-¶
 saṃsthāna-bheda-tamaś-chāyā-tapo-'dyotavantaś¶
-ca.）」¶
+ ca.）」¶
 
 【〔註釋〕
 本節進一步闡述補特伽羅所具有的各種特性：¶
@@ -2751,7 +2750,7 @@ ca.）」¶
 §5.25
 「
 （在補特伽羅中），有原子和（原子的）複合¶
-體。（aṇavaḥskandhāśca.）」¶
+體。（aṇavaḥ skandhāś ca.）」¶
 
 【〔註釋〕
 「複合體」（skandha），由原子結合而成的原子團。】¶
@@ -2759,7 +2758,7 @@ ca.）」¶
 §5.26
 「
 由結合、分割而產生。（saṃghta-bhedebhya¶
-utpadyante.）」¶
+ utpadyante.）」¶
 
 【〔註釋〕
 據作者原註，所謂「結合、分割」意為「結合」、「分¶
@@ -2770,7 +2769,7 @@ utpadyante.）」¶
 
 §5.27
 「
-原子由分割而產生。（bhedādaṇuḥ.）」¶
+原子由分割而產生。（bhedād aṇuḥ.）」¶
 
 【〔註釋〕
 本節意為原子祇能由分割其它物體（或複合體）而¶
@@ -2779,7 +2778,7 @@ utpadyante.）」¶
 §5.28
 「
 由分割或集合而成為可見的。（bheda-¶
-saṃghātābhyāṃcākṣuṣāḥ.）」¶
+saṃghātābhyāṃ cākṣuṣāḥ.）」¶
 
 【〔註釋〕
 在這裡，「分割或集合」是複合體的代名詞，因為複
@@ -2790,12 +2789,12 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.29
 「
 所謂「有」，就是具有產生、消滅、延續、結合¶
-（四種特徵）。（utpāda-vyaya-dhrauvya-yuktaṃsat.）」¶
+（四種特徵）。（utpāda-vyaya-dhrauvya-yuktaṃ sat.）」¶
 
 【〔註釋〕
 空衣派刊本與此略有不同，為：¶
 
-（§5.29）實體的特徵為有。（satdravyalakṣaṇam.）¶
+（§5.29）實體的特徵為有。（sat dravya lakṣaṇam.）¶
 
 然後，將白衣派刊本的§5.29作為（§5.30），這樣，空衣派刊¶
 本就多了一節。¶
@@ -2808,7 +2807,7 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.30
 「
 如（有的）狀態不消滅，即（把它）作為常住。¶
-（tad-bhāva-avyayaṃnityam.）」¶
+（tad-bhāva-avyayaṃ nityam.）」¶
 
 §5.31
 「
@@ -2833,7 +2832,7 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.32
 「
 （原子的）結合根據粘著性與乾燥性。¶
-（snigdha-rūkṣatvādbandhaḥ.）」¶
+（snigdha-rūkṣatvād bandhaḥ.）」¶
 
 【〔註釋〕
 自本節至§5.36論述原子的結合問題。¶
@@ -2846,7 +2845,7 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.33
 「
 具有最低量（這種）性質的（原子不結合）。¶
-（najaghanya-guṇānām.）」¶
+（na jaghanya-guṇānām.）」¶
 
 【〔註釋〕
 耆那教認為每個原子都帶有一定程度的性質（或乾¶
@@ -2859,7 +2858,7 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.34
 「
 同種性質，程度也相等時，（原子不結合）。¶
-（guṇa-sāmyesadṛśānām.）」¶
+（guṇa-sāmye sadṛśānām.）」¶
 
 【〔註釋〕
 §5.33論述的是性質相同的單個原子能否結合的¶
@@ -2873,24 +2872,24 @@ saṃghātābhyāṃcākṣuṣāḥ.）」¶
 §5.35
 「
 但是，（可與）性質（比它）多二及二以上的¶
-（複合體相結合）。（dvyadhikādi-guṇānāṃtu.）」¶
+（複合體相結合）。（dvyadhikādi-guṇānāṃ tu.）」¶
 
 【〔註釋〕
 本節論述兩個性質相同的複合體在什麼情況下可
 <pb:KR6v0028_W_001-0416a>¶
 以結合。耆那教認為如果兩個性質相同的複合體所內含的、使它們¶
-能夠顯示出相同性質的原子個數之差大於2時，這兩個複合體纔¶
+能夠顯示出相同性質的原子個數之差大於 2 時，這兩個複合體纔¶
 能結合。用字母來表示，如用S代表帶粘著性的原子，用Sn代表該¶
-複合體表現為祇有或多餘n個或帶粘著性原子，則Sn祇能與Sn+2、¶
+複合體表現為祇有或多餘 n 個或帶粘著性原子，則Sn祇能與Sn+2、¶
 Sn+3、Sn+4……等複合體結合。同理，如用R代表帶乾燥性的原子，¶
-用Rn代表該複合體表現為祇有或多餘n個帶乾燥性原子，則Rn祇¶
+用Rn代表該複合體表現為祇有或多餘 n 個帶乾燥性原子，則Rn祇¶
 能與Rn+2、Rn+3、Rn+4……等複合體結合。某些註釋者認為，在S與¶
 R之間，也必須按這一規律結合。】¶
 
 §5.36
 「
 結合時，有相等的轉化和趨向增高的轉化¶
-兩種。（bandhesamādhikaupāriṇāmikau.）」¶
+兩種。（bandhe samādhikau pāriṇāmikau.）」¶
 
 【〔註釋〕
 據作者原註，性質強弱不同的兩個複合體結合後，¶
@@ -2898,12 +2897,12 @@ R之間，也必須按這一規律結合。】¶
 低的一種向程度高的一種轉化。¶
 
 但空衣派刊本無「有相等的轉化」一語，僅作「結合時向程度¶
-高的一方轉化。」（bandhe'dhikaupāriṇāmikauca.）】¶
+高的一方轉化。」（bandhe 'dhikau pāriṇāmikau ca.）】¶
 
 §5.37
 「
 實體有性質與樣態。（guṇa-paryāya-vad¶
-dravyam.）」¶
+ dravyam.）」¶
 
 【〔註釋〕
 「性質」（guṇa），舊譯為「德」，參見§5.40。¶
@@ -2913,17 +2912,17 @@ dravyam.）」¶
 
 §5.38
 「
-有些人（認為）時間也（是實體）。（kālaścety¶
-eke.）」¶
+有些人（認為）時間也（是實體）。（kālaś cety¶
+ eke.）」¶
 
 【〔註釋〕
 這兒的「有些人」，指的是空衣派。參見§5.22。¶
 
-空衣派刊本此節為：「時間亦然」（kālaśca.）】¶
+空衣派刊本此節為：「時間亦然」（kālaś ca.）】¶
 
 §5.39
 「
-它由無數個瞬間（組成）。（so'nanta-¶
+它由無數個瞬間（組成）。（so 'nanta-¶
 samayaḥ.）」¶
 
 【〔註釋〕
@@ -2933,7 +2932,7 @@ samayaḥ.）」¶
 §5.40
 「
 性質依存於實體，（其本身）沒有任何性質。¶
-（dravyāśrayānirguṇāguṇāḥ.）」¶
+（dravyāśrayā nirguṇā guṇāḥ.）」¶
 
 【〔註釋〕
 本節意為性質反映事物（實體）的屬性，它與實體不¶
@@ -2944,7 +2943,7 @@ samayaḥ.）」¶
 §5.41
 「
 而其狀態處在轉化之中。（tad-bhāvaḥ¶
-pariṇāmaḥ.）」¶
+ pariṇāmaḥ.）」¶
 
 【〔註釋〕
 原註說，此節意為實體及性質的狀態（bhāva）就是¶
@@ -2955,12 +2954,12 @@ pariṇāmaḥ.）」¶
 
 §5.42
 「
-（轉化）有無始，有有始。（anādirādimāṃś¶
-ca.）」¶
+（轉化）有無始，有有始。（anādir ādimāṃś¶
+ ca.）」¶
 
 §5.43
 「
-於有色者，為有始。（rūpiṣvādimān.）」¶
+於有色者，為有始。（rūpiṣv ādimān.）」¶
 
 【〔註釋〕
 有色者，即有形體者。這一類事物（包括生物）有具¶
@@ -2970,7 +2969,7 @@ ca.）」¶
 §5.44
 「
 於命之作為及意向性（的轉化為有始）。¶
-（yoga-upayogaujīveṣu.）」¶
+（yoga-upayogau jīveṣu.）」¶
 
 【〔註釋〕
 「意向性」，參見§2.8、§2.9。「作為」（yoga），參見¶
@@ -2982,7 +2981,7 @@ ca.）」¶
 §6.1
 「
 作為是身、語、意的業。（kāya-vāṅ-manaḥ¶
--karmayogaḥ.）」
+-karma yogaḥ.）」
 <pb:KR6v0028_W_001-0418a>¶
 
 【〔註釋〕
@@ -2998,7 +2997,7 @@ ca.）」¶
 
 §6.2
 「
-此（即）為漏。（saāsravaḥ.）」¶
+此（即）為漏。（sa āsravaḥ.）」¶
 
 【〔註釋〕
 「漏」（āsrava）是耆那教思想的基本範疇之一，參見¶
@@ -3010,11 +3009,11 @@ ca.）」¶
 
 §6.3
 「
-凡清淨的產生善。（śubhaḥpuṇyasya.）」¶
+凡清淨的產生善。（śubhaḥ puṇyasya.）」¶
 
 §6.4
 「
-凡不淨的為惡。（aśubhaḥpāpasaya.）」¶
+凡不淨的為惡。（aśubhaḥ pāpasaya.）」¶
 
 【〔註釋〕
 作為有清淨與不淨之分。清淨的作為也產生業的漏¶
@@ -3027,7 +3026,7 @@ ca.）」¶
 「
 有污濁的（命的作為，產生）與輪迴相關的¶
 （漏），無污濁的（命的作為，產生）恪守教規的漏。（sakaṣāya-¶
-akaṣāyayoḥsāmparāyika-īryāpathayoḥ.）」¶
+akaṣāyayoḥ sāmparāyika-īryāpathayoḥ.）」¶
 
 【〔註釋〕
 耆那教把人的忿、慢、欺、貧等感情稱作污濁。由於¶
@@ -3047,8 +3046,8 @@ akaṣāyayoḥsāmparāyika-īryāpathayoḥ.）」¶
 「
 前者是從無禁誓產生的五種，從污濁產生的¶
 四種、從根產生的五種、從所作產生的二十五種。（avrata-¶
-kaṣāya-indriya-kriyāḥpañca-catuḥ-pañca-¶
-pañcaviṃśati-saṃkhyāḥpūrvasyabhedaḥ.）」¶
+kaṣāya-indriya-kriyāḥ pañca-catuḥ-pañca-¶
+pañcaviṃśati-saṃkhyāḥ pūrvasya bhedaḥ.）」¶
 
 【〔註釋〕
 「前者」，指有污濁的命的作為產生的、與輪迴相關的¶
@@ -3067,7 +3066,7 @@ pañcaviṃśati-saṃkhyāḥpūrvasyabhedaḥ.）」¶
 這些（漏）的差別由（思考程度的）強弱，被意¶
 識到與否，（作者的）力的差別及所依的差別而產生。¶
 （tīvra-manda-jñāta-ajñātabhāva-vīrya-adhikaraṇaviśeṣebhyas¶
-tad-viśeṣaḥ.）」¶
+ tad-viśeṣaḥ.）」¶
 
 【〔註釋〕
 漏的大小輕重依據上述四個方面來區別。以殺人為¶
@@ -3082,7 +3081,7 @@ tad-viśeṣaḥ.）」¶
 
 §6.8
 「
-所依為命與非命。（adhikaraṇaṃjīva-¶
+所依為命與非命。（adhikaraṇaṃ jīva-¶
 ajīvāḥ.）」¶
 
 【〔註釋〕
@@ -3094,29 +3093,29 @@ ajīvāḥ.）」¶
 §6.9
 「
 前者分別有（行為的）熱望、準備、著手等三¶
-種；（由身、語、意作的）作為等三種；自己幹、使他人幹、同¶
-意他人幹三種；（忿、慢、欺、貪的）污濁四種。（ādyaṃsaṃrambha-¶
+種；（由身、語、意作的）作為等三種；自己干、使他人干、同¶
+意他人干三種；（忿、慢、欺、貪的）污濁四種。（ādyaṃ saṃrambha-¶
 samārambha-ārambha-yoga-kṛta-kārita-¶
-anumata-kaṣāyavi-śeṣaistristristriścatuśca-ekaśaḥ.）」¶
+anumata-kaṣāyavi-śeṣais tris tris triś catuś ca-ekaśaḥ.）」¶
 
 【〔註釋〕
 「前者」，指前一節所說的行為所憑藉的命。耆那教認¶
 為這些命的行為，按其行為的方式不同，各自產生不同的業。作者¶
 原註把此時的所依，稱作「現狀所依」。原註認為本節所說的「行為¶
 的熱望、準備、著手等三種；由身、語、意所做的作為等三種；自己¶
-幹、使他人幹、同意他人幹等三種；忿、慢、欺、貪的污濁等四種」可¶
+干、使他人干、同意他人干等三種；忿、慢、欺、貪的污濁等四種」可¶
 以搭配起來，這樣3×3×3×4，現狀所依共有108種漏。】¶
 
 §6.10
 「
 後者有產生的二種；放下的四種；結合的兩¶
 種；表現出的三種。（nirvartanā-nikṣepa-saṃyoga-¶
-nisargādvi-catur-dvi-tribhedāḥparam.）」¶
+nisargā dvi-catur-dvi-tribhedāḥ param.）」¶
 
 【〔註釋〕
 「後者」，指§6.8所說的行為所憑藉的非命。所謂¶
 「產生的二種」，指根本性的與枝末性的。根本性的是由身、語、意、¶
-呼吸產生的漏；枝末性的是由書籍、繪畫等產生的漏。所謂「放下的
+呼吸產生的漏；枝末性的是由書藉、繪畫等產生的漏。所謂「放下的
 <pb:KR6v0028_W_001-0421a>¶
 四種」，指放置物體時（1）事先沒有檢查放置的場所；（2）放在很不干¶
 淨的場所；（3）突然放置；（4）放在不該放的地方，由此而產生的漏。¶
@@ -3133,28 +3132,28 @@ nisargādvi-catur-dvi-tribhedāḥparam.）」¶
 （由對正智、正見的）誹謗、隱匿、嫉妒、妨¶
 害、攻擊、違背（而產生）智障及見障的（漏）。（tat-pradoṣa¶
 -nihnava-mātsarya-antarāya-āsādanā-upaghātā¶
-jñāna-darśana-āvaraṇayoḥ.）」¶
+ jñāna-darśana-āvaraṇayoḥ.）」¶
 
 §6.12
 「
 （由）自己的、他人的、自己與他人共同的¶
 苦、憂、惱、泣、殺、悲歎（而產生）應使感受苦的（漏）。¶
 （duḥkha-śoka-tapa-ākrāndana-vadha-paridevanāny¶
-ātma-para-ubhayasthānyasadvedyasya.）」¶
+ ātma-para-ubhayasthāny asadvedyasya.）」¶
 
 §6.13
 「
 （由）眾生與禁誓者的慈愍、施與、遵守包括¶
 （禁止）小貪在內的禁戒、瑜伽（即禪定）、忍耐、純潔（的實¶
 踐而產生）應使感受樂的（漏）。（bhūta-vraty-anukampā¶
-dānaṃsarāgasaṃyamādiyogaḥkṣāntiḥśaucamiti¶
-sadvedyasya.）」¶
+ dānaṃ sarāgasaṃyamādi yogaḥ kṣāntiḥ śaucam iti¶
+ sadvedyasya.）」¶
 
 §6.14
 「
 （由）對完全智者、聖典、僧伽、法與天神的¶
-讒謗（而產生）見癡之（漏）。（kevali-śrutasaṃgha-¶
-dharma-deva-avarṇavādodarśana-mohasya.）」¶
+讒謗（而產生）見癡之（漏）。（kevali-śruta saṃgha-¶
+dharma-deva-avarṇavādo darśana-mohasya.）」¶
 
 【〔註釋〕
 「見癡之漏」，即導致產生見癡的漏。以下「行癡之¶
@@ -3166,8 +3165,8 @@ dharma-deva-avarṇavādodarśana-mohasya.）」¶
 §6.15
 「
 由於污濁的增生而出現強力的自我的轉¶
-變，（故此產生出）行癡之（漏）。（kaṣāyodayāttīvra-ātma¶
--pariṇāmaścāritra-mohasya.）」¶
+變，（故此產生出）行癡之（漏）。（kaṣāyodayāt tīvra-ātma¶
+-pariṇāmaś cāritra-mohasya.）」¶
 
 【〔註釋〕
 「污濁」，指「忿、慢、欺、貪」四種感情。耆那教與印度¶
@@ -3183,7 +3182,7 @@ dharma-deva-avarṇavādodarśana-mohasya.）」¶
 「
 （由）頻繁地插手於（世間的活動）及（對事¶
 物的）執持（而產生決定）地獄的壽量之（漏）。（bahv-¶
-ārambha-parigrahatvaṃcanārakasya-āyuṣaḥ.）」¶
+ārambha-parigrahatvaṃ ca nārakasya-āyuṣaḥ.）」¶
 
 【〔註釋〕
 「執持」（parigrahatva），原意為抓住不放，指對外界¶
@@ -3197,7 +3196,7 @@ dharma-deva-avarṇavādodarśana-mohasya.）」¶
 §6.17
 「
 （由）欺（而產生決定）傍生的（壽量之漏）。¶
-（māyātairyagyonasya.）」¶
+（māyā tairyagyonasya.）」¶
 
 【〔註釋〕
 「傍生」，即畜生，耆那教四趣之一，參見§2.6的註¶
@@ -3207,15 +3206,15 @@ dharma-deva-avarṇavādodarśana-mohasya.）」¶
 「
 （由）很少插手於（世間的活動），很少執持¶
 及天生的謙和與正直（而產生決定）人的（壽量之漏）。¶
-（alpārambha-parigrahatvaṃsvabhāva-mārdava-ārjavaṃ¶
-camānuṣasya.）」
+（alpārambha-parigrahatvaṃ svabhāva-mārdava-ārjavaṃ¶
+ ca mānuṣasya.）」
 <pb:KR6v0028_W_001-0423a>¶
 
 【〔註釋〕
 空衣派刊本此節無「天生的謙和與正直」一詞，而在¶
 此節之下，單列一節如下：¶
 
-（§6.18）天生的謙和亦然。（mārdava-ārjavaṃca.）¶
+（§6.18）天生的謙和亦然。（mārdava-ārjavaṃ ca.）¶
 
 這樣，從§6.19開始，白衣派、空衣派兩個刊本的編號就一致¶
 了。參見§6.4的註釋。】¶
@@ -3223,7 +3222,7 @@ camānuṣasya.）」
 §6.19
 「
 丟棄了道德及禁誓，（便使）一切（產生）。¶
-（niḥśīla-vratatvamcasarveṣām.）」¶
+（niḥśīla-vratatvam ca sarveṣām.）」¶
 
 【〔註釋〕
 「一切」，指決定人、傍生、地獄壽量的漏。】¶
@@ -3233,7 +3232,7 @@ camānuṣasya.）」
 （由）包括（禁止）小貪的禁戒、部分的禁戒、¶
 非有意地消滅業、愚蠢的苦行（而產生決定）天神的（壽量¶
 的漏）。（sarāgasaṃyama-saṃyamāsaṃyama-akāmanirjarā¶
--bālatapāṃsidaivasya.）」¶
+-bālatapāṃsi daivasya.）」¶
 
 【〔註釋〕
 據原註，禁戒，指§7.1所指的五大誓。所謂「非有意¶
@@ -3243,13 +3242,13 @@ camānuṣasya.）」
 
 在空衣派的刊本中，在本節下另有一節：¶
 
-（§6.21）正（信）亦爾。（samyaktvaṃca.）】¶
+（§6.21）正（信）亦爾。（samyaktvaṃ ca.）】¶
 
 §6.21
 「
 由歪邪的作為與背約（使）罪惡的個性的¶
-（漏得以產生）。（yogavakratāvisaṃvādanaṃca-aśubhasya¶
-nāmnaḥ.）」¶
+（漏得以產生）。（yogavakratā visaṃvādanaṃ ca-aśubhasya¶
+ nāmnaḥ.）」¶
 
 【〔註釋〕
 「個性」（nāmna）是耆那教用於對業進行分類的一種¶
@@ -3258,7 +3257,7 @@ nāmnaḥ.）」¶
 §6.22
 「
 與此正相反的（行為，使）善良的個性的（漏¶
-得以產生）。（viparītaṃśubhasya.）」¶
+得以產生）。（viparītaṃ śubhasya.）」¶
 
 【〔註釋〕
 這兩節論述各類好的、壞的個性是因什麼而產生¶
@@ -3274,12 +3273,12 @@ nāmnaḥ.）」¶
 捨與苦行；對僧伽及上人的皈依和供奉；對阿羅漢、阿闍¶
 黎、多聞、（信）教義（者）的親敬；勵行日課；宣揚（解脫）¶
 道；忠愛教義，（使）救世者的個性的（漏得以產生）。¶
-（darśanaviśuddhirvinayasaṃpannatāśīla-vrateṣvanatīcāro¶
-'bhīkṣṇaṃjñānopayoga-saṃvegauśaktitastyāga-tapasī¶
-saṃgha-sādhu-samādhi-vaiyāvṛtyakaraṇamarhad-¶
-ācārya-bahuśruta-pravacana-bhaktirāvaśyakāparihāṇir¶
-mārgaprabhāvanāpravacana-vatsalatvamiti¶
-tīrthakṛttvasya.）」¶
+（darśanaviśuddhir vinayasaṃpannatā śīla-vrateṣv anatīcāro¶
+ 'bhīkṣṇaṃ jñānopayoga-saṃvegau śaktitas tyāga-tapasī¶
+ saṃgha-sādhu-samādhi-vaiyāvṛtyakaraṇam arhad-¶
+ācārya-bahuśruta-pravacana-bhaktir āvaśyakāparihāṇir¶
+ mārgaprabhāvanā pravacana-vatsalatvam iti¶
+ tīrthakṛttvasya.）」¶
 
 【〔註釋〕
 「律的具足」，指完全遵守各種戒律。「厭世求法」，參¶
@@ -3300,20 +3299,20 @@ tīrthakṛttvasya.）」¶
 「
 譭謗他人與讚譽自己，隱匿善德和暴揚惡¶
 德，（使）卑下的人的（漏得以產生。）（parātma-nindā-¶
-praśaṃsesad-asadguṇa-ācchādana-udbhāvanecanīcair
+praśaṃse sad-asadguṇa-ācchādana-udbhāvane ca nīcair
 <pb:KR6v0028_W_001-0425a>¶
 -gotrasya.）」¶
 
 §6.25
 「
 與此正相反的行為，以及謙卑與不踞傲，¶
-（使）尊貴人的（漏得以產生）。（tad-viparyayonīcairvṛtty¶
--anutsekaucottarasya.）」¶
+（使）尊貴人的（漏得以產生）。（tad-viparyayo nīcairvṛtty¶
+-anutsekau cottarasya.）」¶
 
 §6.26
 「
 （對他人的行為）設置障礙，（使）妨害的（漏¶
-得以產生）。（vighnakaraṇamantarāyasya.）」¶
+得以產生）。（vighnakaraṇam antarāyasya.）」¶
 
 【〔註釋〕
 「妨害」（vighnakaraṇa）也是耆那教對業進行分類的¶
@@ -3326,7 +3325,7 @@ praśaṃsesad-asadguṇa-ācchādana-udbhāvanecanīcair
 「
 所謂禁誓是禁止殺生、妄語、偷盜、淫行、執¶
 持。（hiṃsā-anṛta-steya-abrahma-parigrahebhyo¶
-viratirvratam.）」¶
+ viratir vratam.）」¶
 
 【〔註釋〕
 這五項是由耆那教教主規定的基本戒律，被稱為¶
@@ -3341,7 +3340,7 @@ viratirvratam.）」¶
 §7.2
 「
 依據部分地（實行這些禁誓）及完全地（實行¶
-這些禁誓），而有微小及大（禁誓之別）。（deśa-sarvato'ṇu¶
+這些禁誓），而有微小及大（禁誓之別）。（deśa-sarvato 'ṇu¶
 -mahatī.）」¶
 
 【〔註釋〕
@@ -3353,7 +3352,7 @@ viratirvratam.）」¶
 「
 為使這些（禁誓）確立，對該五項各有五種修
 <pb:KR6v0028_W_001-0426a>¶
-習。（tat-sthairyārthaṃbhāvanāḥpañcapañca.）」¶
+習。（tat-sthairyārthaṃ bhāvanāḥ pañca pañca.）」¶
 
 【〔註釋〕
 空衣派刊本在本節之下具體列舉了每項的五種修¶
@@ -3363,16 +3362,16 @@ viratirvratam.）」¶
 （§7.4）保護語；保護意；（注意步行的）規矩；注意拿、放¶
 （物體）的規矩；飲食（須）看過之後（再吃），（上述五種）是（對禁止¶
 殺生的）五（種修習）。（vāṅ-manogupti-īryā-ādānanikṣepaṇasamity-¶
-ālokitapānabhojanānipañca.）¶
+ālokitapānabhojanāni pañca.）¶
 
 （§7.5）捨棄忿；捨棄貪；捨棄怖；捨棄笑；以及說話符合教¶
 義等是（對禁止妄語的）五（種修習）。（krodha-lobha-bhīrutva-¶
-hāsya-pratyākhyānānyanvīci-bhāṣaṇaṃcapañca.）¶
+hāsya-pratyākhyānāny anvīci-bhāṣaṇaṃ ca pañca.）¶
 
 （§7.6）居於空寂處；離群索居；居於相互不禁止對方的場¶
 所；清淨的行乞；不與共同修法者爭論，是（對禁止偷盜的）五（種¶
 修習法）。（śūnyāgāra-vimocitāvāsa-paroparodhākaraṇa-bhaikṣyaśuddhi-¶
-sadharmāvisaṃvādāḥpañca.）¶
+sadharmāvisaṃvādāḥ pañca.）¶
 
 〔註釋〕
 「不偷盜」亦即「戒不與取」。所謂「戒不與取」是指不¶
@@ -3386,12 +3385,12 @@ sadharmāvisaṃvādāḥpañca.）¶
 的、壯陽的飲料；裝飾自己的身體，（這些）是（對禁止淫行的）五¶
 （種修習）。（strīrāgakathāśravaṇa-tanmanoharāṅganirīkṣaṇa-¶
 pūrvaratānusmaraṇa-vṛṣyeṣṭarasa-svaśarī-rasaṃskāra-tyāgāḥ¶
-pañca.）¶
+ pañca.）¶
 
 （§7.8）無論好、壞，捨棄對（五）根的對境的愛憎，（此）是¶
 （對禁止執持的）五（種修習）。（manojñāmanojña-indriyaviṣaya-
 <pb:KR6v0028_W_001-0427a>¶
-rāgadveṣa-varjanānipañca.）¶
+rāgadveṣa-varjanāni pañca.）¶
 
 〔註釋〕
 「五根的對境」，即色、聲、香、味、觸，也就是客觀外界¶
@@ -3401,18 +3400,18 @@ rāgadveṣa-varjanānipañca.）¶
 「
 （犯）殺生等（禁誓）時，要對觀（由此會引起¶
 的）今生及來世的（種種）不幸與恥辱。（hiṃsādiṣv¶
-ihāmutraca-apāya-avadya-darśanam.）」¶
+ ihāmutra ca-apāya-avadya-darśanam.）」¶
 
 §7.5
 「
 或者（應對觀違犯殺生等五項禁誓本身，比¶
-其產生的後果）更苦。（duhkhaṃevavā.）」¶
+其產生的後果）更苦。（duhkhaṃ eva vā.）」¶
 
 §7.6
 「
 或者（應該）分別以慈愛、歡喜、悲憫、正真，¶
 （對待）眾生、高德者、有惱者、粗野者。（maitrī-pramoda-¶
-kāruṇya-mādhyasthānisattva-guṇādhika-kliśyamāna-¶
+kāruṇya-mādhyasthāni sattva-guṇādhika-kliśyamāna-¶
 avineyeṣu.）」¶
 
 【〔註釋〕
@@ -3425,7 +3424,7 @@ avineyeṣu.）」¶
 §7.7
 「
 且為了厭世求法與離欲，（應對觀）世界與身¶
-體的本性。（jagat-kāya-svabhāvaucasaṃvega-¶
+體的本性。（jagat-kāya-svabhāvau ca saṃvega-¶
 vairāgyārtham.）」¶
 
 【〔註釋〕
@@ -3438,39 +3437,39 @@ vairāgyārtham.）」¶
 §7.8
 「
 所謂殺害，即以放縱的（身、語、意的）作為去¶
-奪去（其它眾生的）生命。（pramatta-yogātprāṇa-
+奪去（其它眾生的）生命。（pramatta-yogāt prāṇa-
 <pb:KR6v0028_W_001-0428a>¶
-vyaparopaṇaṃhiṃsā.）」¶
+vyaparopaṇaṃ hiṃsā.）」¶
 
 §7.9
 「
 所謂虛偽，即說不真實的話。（asad-¶
-adhidhānamanṛtam.）」¶
+adhidhānam anṛtam.）」¶
 
 §7.10
 「
 所謂偷盜，即不與取。（adattādānaṃ¶
-steyam.）」¶
+ steyam.）」¶
 
 §7.11
 「
 所謂非梵行，即交合。（maithunam¶
-abrahma.）」¶
+ abrahma.）」¶
 
 §7.12
 「
-所謂執持，即欲求。（mūrchāparigrahaḥ.）」¶
+所謂執持，即欲求。（mūrchā parigrahaḥ.）」¶
 
 【〔註釋〕
 §7.8至§7.12解釋五大戒。¶
 
-「欲求」（mūrchā），佛教譯作「昏」、「迷」，在此指欲望。「執¶
+「欲求」（ mūrchā），佛教譯作「昏」、「迷」，在此指欲望。「執¶
 持」（parigraha），亦可譯作「攝受」、「護持」，本指不違犯對比丘可持¶
 有物品的禁戒，但在此指對內外一切事物的欲求。參見§7.24。】¶
 
 §7.13
 「
-所謂禁誓者即無刺之人。（niḥśalyovratī.）」¶
+所謂禁誓者即無刺之人。（niḥśalyo vratī.）」¶
 
 【〔註釋〕
 據原註，所謂「刺」（śalyo），有欺、欲念、邪見等三種。¶
@@ -3479,11 +3478,11 @@ abrahma.）」¶
 §7.14
 「
 （禁誓者分兩種）：在家與出家。（agāry-¶
-anagāraśca.）」¶
+anagāraś ca.）」¶
 
 §7.15
 「
-在家者行小禁誓。（aṇuvrato'gārī.）」¶
+在家者行小禁誓。（aṇuvrato 'gārī.）」¶
 
 【〔註釋〕
 小禁誓，亦即部分禁誓，指祇遵守部分禁誓即可。參¶
@@ -3496,7 +3495,7 @@ anagāraśca.）」¶
 （每日定時）反省冥想，遵行齋日的齋戒，節制飲食及其它¶
 享用，與客僧分享食物。（dig-deśa-anarthadaṇḍavirati-¶
 sāmāyika-pauṣadho-'pavāsa-upabhogaparibhoga-¶
-atithisaṃvibhāga-vratasaṃpannaśca.）」
+atithisaṃvibhāga-vratasaṃpannaś ca.）」
 <pb:KR6v0028_W_001-0429a>¶
 
 【〔註釋〕
@@ -3509,10 +3508,10 @@ atithisaṃvibhāga-vratasaṃpannaśca.）」
 §7.17
 「
 （在家禁誓者並可）委身於因死纔告終的苦¶
-行。（māraṇāntikīṃsaṃlekhanāṃjoṣitā.）」¶
+行。（māraṇāntikīṃ saṃlekhanāṃ joṣitā.）」¶
 
 【〔註釋〕
-「因死纔告終的苦行」（saṃlekhanā），指絕食精進，直¶
+「因死纔告終的苦行」（ saṃlekhanā），指絕食精進，直¶
 至死亡，以此求得解脫。這是耆那教認為的最好逝世方法。¶
 
 在空衣派的刊本中，「saṃlekhanā」作「saṃlekhanā」。在佛教中，¶
@@ -3522,7 +3521,7 @@ atithisaṃvibhāga-vratasaṃpannaśca.）」
 「
 疑惑、欲望、遲疑、對其它觀點的稱譽與讚¶
 嘆等是對正見的違背。（śaṅkā-kāṃkṣā-vicikitsā-anyadṛṣṭipraśaṃsā-¶
-saṃstavāḥsamyagdṛṣṭeratīcārāḥ.）」¶
+saṃstavāḥ samyagdṛṣṭer atīcārāḥ.）」¶
 
 【〔註釋〕
 這兒的「疑惑、欲望、遲疑」，是指對耆那教理論的疑¶
@@ -3533,7 +3532,7 @@ saṃstavāḥsamyagdṛṣṭeratīcārāḥ.）」¶
 §7.19
 「
 對禁誓與戒順次各有（如下）五種（違背）。¶
-（vrata-sīleṣupañcapañcayathākramam.）」¶
+（vrata-sīleṣu pañca pañca yathā kramam.）」¶
 
 【〔註釋〕
 這兒的「禁誓」，指§7.1講的五大誓。這兒的「戒」，¶
@@ -3709,14 +3708,14 @@ mitrānurāga-sukhānubandha-nidānakaraṇāni.）」¶
 §7.33
 「
 所謂施與即為了（自己及他人的）利益，把¶
-自己的東西施捨出去。（anugrahārthaṃsvasyātisargo¶
-dānam.）」¶
+自己的東西施捨出去。（anugrahārthaṃ svasyātisargo¶
+ dānam.）」¶
 
 §7.34
 「
 這些施與因方式、施捨品、施捨者、接受者¶
 的不同而產生差別。（vidhi-dravya-dātṛpātra-viśeṣāt¶
-tad-viśeṣaḥ.）」¶
+ tad-viśeṣaḥ.）」¶
 
 【〔註釋〕
 耆那教認為不同的施捨產生不同的功德。所謂不同¶
@@ -3731,7 +3730,7 @@ tad-viśeṣaḥ.）」¶
 「
 縛的原因是邪見、不遠離、放逸、穢濁、作為。¶
 （mithyādarśana-avirati-pramāda-kaṣāya-yogā¶
-bandhahetavaḥ.）」¶
+ bandhahetavaḥ.）」¶
 
 【〔註釋〕
 前幾章論述了七諦中的命、非命、漏三諦，本節起論¶
@@ -3746,7 +3745,7 @@ bandhahetavaḥ.）」¶
 §8.2
 「
 由於命有穢濁，因此取得對業適合的物質。¶
-（sakaṣāyatvājjīvaḥkarmaṇoyogyānpudgalānādatte.）」¶
+（sakaṣāyatvāj jīvaḥ karmaṇo yogyān pudgalān ādatte.）」¶
 
 【〔註釋〕
 原註說：「對業適合」，即「適合於取得業身。」業身是
@@ -3756,7 +3755,7 @@ bandhahetavaḥ.）」¶
 
 §8.3
 「
-此為縛。（sabandhaḥ.）」¶
+此為縛。（sa bandhaḥ.）」¶
 
 【〔註釋〕
 據烏瑪斯伐蒂原註，本節意為命受納了上述構成業¶
@@ -3768,7 +3767,7 @@ bandhahetavaḥ.）」¶
 「
 這（縛的）種類（分為業的）本質、止住、威力¶
 及微點（的數目等四種）。（prakṛti-sthity-anubhāva-¶
-pradeśāstad-vidhayaḥ.）」¶
+pradeśās tad-vidhayaḥ.）」¶
 
 【〔註釋〕
 在空衣派的刊本中，本節結尾作「tad-vidhaḥ」。】¶
@@ -3776,7 +3775,7 @@ pradeśāstad-vidhayaḥ.）」¶
 §8.5
 「
 第一（業的本質為）智障、見障、感覺、愚癡、¶
-壽量、個性、類性、妨礙（等八種）。（ādyojñāna-¶
+壽量、個性、類性、妨礙（等八種）。（ādyo jñāna-¶
 darśanāvaraṇa-vedanīya-mohanīya-āyuṣka-nāma-¶
 gotra-antarāyāḥ.）」¶
 
@@ -3791,7 +3790,7 @@ gotra-antarāyāḥ.）」¶
 （這八種）順次各分為五、九、二、二十八、四、¶
 四十二、二、五種。（pañca-nava-dvy-aṣṭāviṃśati-¶
 catur-dvicatvāriṃśad-dvi-pañca-bhedā¶
-yathākramam.）」¶
+ yathākramam.）」¶
 
 【〔註釋〕
 業的本質可分智障等八種。每種又可細分。即「智¶
@@ -3818,16 +3817,16 @@ yathākramam.）」¶
 （九種見障）為眼見障，非眼見障，直觀智見障，完全智見¶
 障，以及假睡的感受，熟睡的感受，微睡的感受，昏睡的感受，夢遊的感¶
 受。（cakṣur-acakṣur-avadhi-¶
-kevalānāmnidrā-nidrānidrā-pracalā-pracalāpracalā-¶
-styānagṛddhi-vedanīyānica.）」¶
+kevalānām nidrā-nidrānidrā- pracalā-pracalāpracalā-¶
+styānagṛddhi-vedanīyāni ca.）」¶
 
 【〔註釋〕
 九種見障中的前四種，可參見§2.5的註釋。後五¶
 種，是指人在睡眠狀態中得到的錯誤認識與感受。¶
 
 在空衣派的刊本中，本節結尾的「styānagṛddhi-vedanīyāni¶
-ca」寫作「styānagṛddhayaśca」。佛教一般把此譯作「昏沉、貪著之受¶
-用」。】¶
+ ca」寫作「styānagṛddhayaś ca」。佛教一般把此譯作「昏沉、貪著之受¶
+ 用」。】¶
 
 §8.9
 「
@@ -3846,11 +3845,11 @@ asad-vedye.）」¶
 穢濁的感受，為）笑、喜、苦、憂、怖、嫌、陰性、陽性、中性。¶
 （darśana-cāritramohanīya-kaṣāya-nokāṣ
 <pb:KR6v0028_W_001-0436a>¶
-ayavedanīyākhyāstri-dvi-ṣodaśa-nava-bhedāḥ,¶
-samyaktvamithyātva-tadubhayānikaṣāya-nokaṣāyāv¶
-anantānubandhy-apratyākhyāna-pratyakhyānā-varaṇa¶
--saṃjvalana-vikalpāścaikaśaḥkrodha-māna-māyā-¶
-lobhāḥhāsya-raty-arati-śoka-bhaya-jugu-psā-strī¶
+ayavedanīyākhyās tri-dvi-ṣodaśa-nava-bhedāḥ,¶
+samyaktvamithyātva-tadubhayāni kaṣāya-nokaṣāyāv¶
+ anantānubandhy-apratyākhyāna-pratyakhyānā-varaṇa¶
+-saṃjvalana-vikalpāś caikaśaḥ krodha-māna-māyā-¶
+lobhāḥ hāsya-raty-arati-śoka-bhaya-jugu-psā-strī¶
 -puṃ-napuṃsakavedāḥ.）」¶
 
 【〔註釋〕
@@ -3918,9 +3917,9 @@ jāti-śarīra-aṅgopaṅga-nirmāṇa-bandhana-saṃghāta
 <pb:KR6v0028_W_001-0438a>¶
 -saṃsthāna-saṃhanana-sparśa-rasa-gandha-varṇ¶
 a-ānupūrvy-agurulaghu-upaghāta-parāghāta-ātapo¶
--'dyoto-'cchvāsa-vihāyogatayaḥpratyekaśarīra-trasa-¶
-subhaga-susvara-śubha-sūkṣma-paryāpta-sthira-¶
-ādeya-yaśāṃsisetarāṇitīrthakṛttvaṃca.）」¶
+-'dyoto-'cchvāsa-vihāyogatayaḥ pratyekaśarīra-trasa-¶
+subhaga-susvara-śubha- sūkṣma-paryāpta-sthira-¶
+ādeya-yaśāṃsi setarāṇi tīrthakṛttvaṃ ca.）」¶
 
 【〔註釋〕
 「個性的業」指使生命體各具個性的業。它共分四十¶
@@ -3959,13 +3958,13 @@ subhaga-susvara-śubha-sūkṣma-paryāpta-sthira-¶
 項目的業。¶
 
 在空衣派的刊本中，將「parāghāta」寫作「paraghāta」；最後一句¶
-寫作「yaśaḥ-kīrti-setarānitīrtakaratvaṃca」，意思不很清楚。】¶
+寫作「yaśaḥ-kīrti-setarāni tīrtakaratvaṃ ca」，意思不很清楚。】¶
 
 §8.13
 「
 （類性的兩種指決定生於）上等及卑賤（家
 <pb:KR6v0028_W_001-0439a>¶
-庭的業）。（uccairnīcaiśca.）」¶
+庭的業）。（uccair nīcaiś ca.）」¶
 
 §8.14
 「
@@ -3982,8 +3981,8 @@ subhaga-susvara-śubha-sūkṣma-paryāpta-sthira-¶
 「
 （所謂第二業的止住）對從第一到第三及妨¶
 礙（的業）而言，止住的最大限度是三十個如海量的俱胝¶
-的俱胝倍。（āditastisṛṇāmantarāyasyacatriṃśaṭ-¶
-sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
+的俱胝倍。（āditas tisṛṇām antarāyasya ca triṃśaṭ-¶
+sāgaropama-koṭī-koṭyaḥ parā sthitiḥ.）」¶
 
 【〔註釋〕
 自本節至§8.21論述§8.4所講的業的止住。其中¶
@@ -4002,7 +4001,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.16
 「
 對愚癡（的業）來說，是七十個（如海量的俱¶
-胝的俱胝倍）。（saptatirmohanīyasya.）」¶
+胝的俱胝倍）。（saptatir mohanīyasya.）」¶
 
 【〔註釋〕
 「愚癡」，即§8.5所講的八項業的本質的第四項。】¶
@@ -4010,7 +4009,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.17
 「
 對個性及類性（的業）來說，是二十個（如海¶
-量的俱胝的俱胝倍）。（nāma-gotrayorviṃśatiḥ.）」¶
+量的俱胝的俱胝倍）。（nāma-gotrayor viṃśatiḥ.）」¶
 
 【〔註釋〕
 「個性及類性」即§8.5所講的八項業的本質的第¶
@@ -4022,7 +4021,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.18
 「
 對壽量（的業）來說，是三十三個如海量。¶
-（trayas-triṃśatsāgaropamāṇyāyuṣkasya.）」¶
+（trayas-triṃśat sāgaropamāṇy āyuṣkasya.）」¶
 
 【〔註釋〕
 「壽量」，即§8.5所講的八項業的本質的第五項。】¶
@@ -4030,7 +4029,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.19
 「
 感受（的業）的（止住的）最上限度為十二暫¶
-時。（aparādvādaśamuhūrtāvedanīyasya.）」¶
+時。（aparā dvādaśa muhūrtā vedanīyasya.）」¶
 
 【〔註釋〕
 「暫時」（muhūrtā）表示短暫時間的一種單位，相當¶
@@ -4039,12 +4038,12 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.20
 「
 個性與類性的（業的最小限度的止住）為八¶
-（暫時）。（nāma-gotrayoraṣṭau.）」¶
+（暫時）。（nāma-gotrayor aṣṭau.）」¶
 
 §8.21
 「
 其餘的（業的最小限度的止住）在一暫時之¶
-內。（śeṣāṇāmantar-muhūrtam.）」¶
+內。（śeṣāṇām antar-muhūrtam.）」¶
 
 【〔註釋〕
 「其餘的」，指§8.5所講的八項業的本質中，去掉¶
@@ -4056,7 +4055,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 §8.22
 「
 所謂威力指（業的）異熟。（vipāko¶
-'nubhāvaḥ.）」¶
+ 'nubhāvaḥ.）」¶
 
 【〔註釋〕
 §8.22至§8.24論述§8.4所提到的縛的種類的¶
@@ -4067,7 +4066,7 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 
 §8.23
 「
-它按照（業的）名稱。（sayathā-nāma.）」¶
+它按照（業的）名稱。（sa yathā-nāma.）」¶
 
 【〔註釋〕
 本節意為各種業各自按照自己的名稱而異熟（即給予¶
@@ -4076,8 +4075,8 @@ sāgaropama-koṭī-koṭyaḥparāsthitiḥ.）」¶
 
 §8.24
 「
-然後，（按這種方式）逐漸消滅。（tataśca¶
-nirjarā.）」
+然後，（按這種方式）逐漸消滅。（tataś ca¶
+ nirjarā.）」
 <pb:KR6v0028_W_001-0441a>¶
 
 【〔註釋〕
@@ -4089,9 +4088,9 @@ nirjarā.）」
 （第四，所謂業的微點的數量）在一切我的¶
 微點上都無限地有著無限倍微點。（像這樣的業的物質），¶
 以（業的）名稱為基礎，到處按作為（yoga）的區別，侵入並¶
-安立於一些細微的領域中。（nāma-pratyayāḥsarvato¶
-yogaviśeṣātsūkṣma-ekakṣetra-avagāḍha-sthitāḥ¶
-sarvātma-pradeśeṣvanantānanta-pradeśāḥ.）」¶
+安立於一些細微的領域中。（nāma-pratyayāḥ sarvato¶
+ yogaviśeṣāt sūkṣma-ekakṣetra-avagāḍha-sthitāḥ¶
+ sarvātma-pradeśeṣv anantānanta-pradeśāḥ.）」¶
 
 【〔註釋〕
 本節論述§8.4講到的縛的種類的第四種——微¶
@@ -4105,7 +4104,7 @@ sarvātma-pradeśeṣvanantānanta-pradeśāḥ.）」¶
 （在諸業中，感受）樂的感覺、正、笑、喜、人¶
 的知識（及承受）清淨的壽量、個性、類性，則為善（業）。¶
 （sadvedya-samyaktva-hāsya-rati-puruṣaveda-¶
-śubhāyur-nāma-gotrāṇipuṇyam.）」¶
+śubhāyur-nāma-gotrāṇi puṇyam.）」¶
 
 【〔註釋〕
 本節論述什麼叫善業。關於樂的感受，可參見§6.¶
@@ -4119,7 +4118,7 @@ sarvātma-pradeśeṣvanantānanta-pradeśāḥ.）」¶
 §9.1
 「
 所謂遮即漏的控制。（āsrava-nirodḥaḥ¶
-saṃvaraḥ.）」¶
+ saṃvaraḥ.）」¶
 
 【〔註釋〕
 本章主要論述遮、滅兩諦。本節論「遮」，即制止物質¶
@@ -4129,7 +4128,7 @@ saṃvaraḥ.）」¶
 「
 它是由監護、謹慎、法、隨觀、克服艱苦、行動
 <pb:KR6v0028_W_001-0442a>¶
-而（產生）。（sagupti-samiti-dharma-anuprekṣā-parīṣahajaya-¶
+而（產生）。（sa gupti-samiti-dharma-anuprekṣā-parīṣahajaya-¶
 cāritraiḥ.）」¶
 
 【〔註釋〕
@@ -4138,7 +4137,7 @@ cāritraiḥ.）」¶
 
 §9.3
 「
-且通過苦行而逐漸有滅。（tapasānirjarāca.）」¶
+且通過苦行而逐漸有滅。（tapasā nirjarā ca.）」¶
 
 【〔註釋〕
 「滅」，則是指消滅已經漏入命中的業。耆那教認為祇¶
@@ -4147,7 +4146,7 @@ cāritraiḥ.）」¶
 §9.4
 「
 所謂監護，指以正確的方式壓抑（身、語、意¶
-的）作為。（samyag-yoga-nigrahoguptiḥ.）」¶
+的）作為。（samyag-yoga-nigraho guptiḥ.）」¶
 
 【〔註釋〕
 本節解釋§9.2所講的監護。¶
@@ -4158,7 +4157,7 @@ cāritraiḥ.）」¶
 「
 所謂謹慎，指（隨時注意正確的）遊方行止、¶
 談話、乞食、放棄執持、排洩。（īryā-bhāṣā-eṣanā-¶
-ādānanikṣepa-utsargāḥsamitayaḥ.）」¶
+ādānanikṣepa-utsargāḥ samitayaḥ.）」¶
 
 【〔註釋〕
 本節解釋§9.2所講的謹慎。】¶
@@ -4166,9 +4165,9 @@ cāritraiḥ.）」¶
 §9.6
 「
 最好的的法是忍耐、謙和、正直、純潔、真實、¶
-自制、苦行、喜捨、無一物、梵行等。（uttamaḥkṣamā-¶
+自制、苦行、喜捨、無一物、梵行等。（uttamaḥ kṣamā-¶
 mārdava-ārjava-śauca-satya-saṃyama-tapas-tyāga¶
--ākiṃcanya-brahmacaryāṇidharmaḥ.）」¶
+-ākiṃcanya-brahmacaryāṇi dharmaḥ.）」¶
 
 【〔註釋〕
 本節解釋§9.2所講的法。¶
@@ -4179,9 +4178,9 @@ mārdava-ārjava-śauca-satya-saṃyama-tapas-tyāga¶
 
 「梵行」（brahmacaryā），即不淫。¶
 
-在空衣派的刊本中，本節作「uttama-kṣamā-mārdava-¶
+在空衣派的刊本中，本節作「 uttama-kṣamā-mārdava-¶
 ārjava-śauca-satya-saṃyama-tapas-tyāga-ākiṃcanya-¶
-brahmacaryāṇidharmaḥ.」，意為「所謂法為最高之忍耐、謙和、正¶
+brahmacaryāṇi dharmaḥ.」，意為「所謂法為最高之忍耐、謙和、正¶
 直、純潔、真實、自製、苦行、喜捨、無一物、梵行等。」】
 <pb:KR6v0028_W_001-0443a>¶
 
@@ -4204,7 +4203,7 @@ anucintanamanuprekṣāḥ.）」¶
 「
 所謂艱苦，是為了不在（解脫之）道動搖，（及¶
 為了）消滅（業）而應該耐受的痛苦。（mārga-acyavana-¶
-nirjarārthaṃpariṣoḍhavyāḥparīṣahāḥ.）」¶
+nirjarārthaṃ pariṣoḍhavyāḥ parīṣahāḥ.）」¶
 
 【〔註釋〕
 從本節至§9.17論述§9.2所講的艱苦。本節是給¶
@@ -4237,7 +4236,7 @@ mala-satkārapuraskāra-prajñā-ajñāna-adarśanāni.）」¶
 §9.10
 「
 在細穢濁位與無穢濁位有十四（艱苦）。¶
-（sūkṣmasaṃparāya-cchadmasthavītarāgayoścaturdaśa.）」¶
+（sūkṣmasaṃparāya-cchadmasthavītarāgayoś caturdaśa.）」¶
 
 【〔註釋〕
 耆那教認為隨著人修習的進步，業的束縛也逐漸削¶
@@ -4255,7 +4254,7 @@ mala-satkārapuraskāra-prajñā-ajñāna-adarśanāni.）」¶
 
 §9.11
 「
-在勝者位有十一（種艱苦）。（ekādaśajine.）」¶
+在勝者位有十一（種艱苦）。（ekādaśa jine.）」¶
 
 【〔註釋〕
 勝者位相當於十四德位的第十三位，亦稱「有作為¶
@@ -4265,7 +4264,7 @@ mala-satkārapuraskāra-prajñā-ajñāna-adarśanāni.）」¶
 §9.12
 「
 在粗穢濁位有全部。（bādara-saṃparāye¶
-sarve.）」¶
+ sarve.）」¶
 
 【〔註釋〕
 一般認為粗穢濁位即是十四德位的第九位，也有人¶
@@ -4284,26 +4283,26 @@ sarve.）」¶
 §9.13
 「
 如果有障礙智慧（的業），就有慧（的闇沒）¶
-與無智（的絕望等二種艱苦）。（jñānāvaraṇeprajñā-¶
+與無智（的絕望等二種艱苦）。（jñānāvaraṇe prajñā-¶
 ajñāne.）」¶
 
 §9.14
 「
 如果有見癡與妨礙（的業，就產生）對正見¶
 的疑惑和（乞食的）不成功（這二種艱苦）。（darśanamoha-¶
-antārāyayoradarśana-alābhau.）」¶
+antārāyayor adarśana-alābhau.）」¶
 
 §9.15
 「
 如果有行癡（的業，就產生對）裸行、厭倦、¶
 女人、禪座、罵詈、乞食、恭敬的表示（的艱苦）。¶
-（cāritramohenāgnya-arati-strī-niṣady-ākrośa-yācanā¶
+（cāritramohe nāgnya-arati-strī-niṣady-ākrośa-yācanā¶
 -satkārapuraskārāḥ.）」¶
 
 §9.16
 「
 如果有感受（的業），就有其餘（的艱苦）。¶
-（vedanīyeśeṣāḥ.）」¶
+（vedanīye śeṣāḥ.）」¶
 
 【〔註釋〕
 「其餘的艱苦」，指從§9.9所講的二十二種艱苦中，¶
@@ -4314,15 +4313,15 @@ antārāyayoradarśana-alābhau.）」¶
 §9.17
 「
 （二十二種艱苦中）一種乃至十九種可以同¶
-時分配（於一命上）。（ekādayobhājyāyugapadā¶
-ekonaviṃśateḥ.）」¶
+時分配（於一命上）。（ekādayo bhājyā yugapad ā¶
+ ekonaviṃśateḥ.）」¶
 
 【〔註釋〕
 本節意為一個命同時可能承受一種、二種，乃至十¶
 九種艱苦，但不會同時承受全部二十二種艱苦，這是因為寒、熱不¶
 能同時存在；遊行、臥所、禪座也祇能是三者擇其一。¶
 
-在空衣派的刊本中，本節之「āekonaviṃśateḥ」寫作「ekonaviṃ
+在空衣派的刊本中，本節之「ā ekonaviṃśateḥ」寫作「ekonaviṃ
 <pb:KR6v0028_W_001-0446a>¶
 śateḥ」。】¶
 
@@ -4331,7 +4330,7 @@ ekonaviṃśateḥ.）」¶
 所謂行動指反省冥想、悔過改正、保持淨¶
 行、細穢濁、如實修行。（sāmāyika-cchedopasthāpya-¶
 parihāravisuddhi-sūkṣmasaṃparāya-yathākhyātāni¶
-cāritram.）」¶
+ cāritram.）」¶
 
 【〔註釋〕
 本節論述§9.2所講的是行動必須遵奉實行的五種¶
@@ -4341,15 +4340,15 @@ cāritram.）」¶
 
 在空衣派的刊本中，「cchedopasthāpya」寫作¶
 「chedopasthāpanā」；「sūkṣmasaṃparāya」寫作「sūkṣmasūmparāya」；¶
-「yathākhyātāni」寫作「yathākhyātamiti」。】¶
+「 yathākhyātāni」寫作「 yathākhyātam iti」。】¶
 
 §9.19
 「
 絕食、減食、（接受施捨食物時的）正確的行¶
 動、捨棄美味、閉居獨坐、肉體方面的苦行（等）即為外在¶
 的苦行。（anaśana-avamaudarya-vṛttiparisaṃkhyāna-¶
-rasaparityāga-viviktaśayyāsana-kāyakleśābānyaṃ¶
-tapaḥ.）」¶
+rasaparityāga-viviktaśayyāsana-kāyakleśā bān yaṃ¶
+ tapaḥ.）」¶
 
 【〔註釋〕
 從本節至§9.46俱論述§9.3所提及的苦行。耆那¶
@@ -4386,7 +4385,7 @@ tapaḥ.）」¶
 「
 （其中），靜慮以前（的各項），順次有九、四、¶
 十、五、二的小區分。（nava-catur-daśa-pañca-dvi-¶
-bhedaṃyathākramaṃprāgdhyānāt.）」¶
+bhedaṃ yathākramaṃ prāg dhyānāt.）」¶
 
 【〔註釋〕
 所謂「靜慮以前」，指從補贖到放棄等五項。¶
@@ -4451,7 +4450,7 @@ bhedaṃyathākramaṃprāgdhyānāt.）」¶
 【〔註釋〕
 本節具體論述§9.20所講的十種服務。¶
 
-在空衣派的刊本中，「śaikṣaka」寫作「śaikṣya」；¶
+在空衣派的刊本中，「 śaikṣaka」寫作「 śaikṣya」；¶
 「samanojñānām」寫作「manojñānām」。】¶
 
 §9.25
@@ -4481,7 +4480,7 @@ bhedaṃyathākramaṃprāgdhyānāt.）」¶
 「
 所謂靜慮是具有最高關節連繫者的思想的¶
 （一種）觀想與控制。（uttamasaṃhana-nasya-ekāgracintā¶
--nirodhodhyānam.）」¶
+-nirodho dhyānam.）」¶
 
 【〔註釋〕
 「關節連繫」，見§8.12；它共分六種。「最高關節連¶
@@ -4492,12 +4491,12 @@ bhedaṃyathākramaṃprāgdhyānāt.）」¶
 §9.28
 「
 （它的持續時間）超過一個暫時。（ā¶
-muhūrtāt.）」¶
+ muhūrtāt.）」¶
 
 【〔註釋〕
 「它」，指靜慮。¶
 
-在空衣派刊本中，本節作「āntarmuhurttat」，並將此節與上節¶
+在空衣派刊本中，本節作「āntar muhurttat」，並將此節與上節¶
 合為一節，作（§9.27）。】¶
 
 §9.29
@@ -4514,7 +4513,7 @@ muhūrtāt.）」¶
 §9.30
 「
 （此四禪中），後二（想）是解脫的原因。（pare¶
-mokṣahetū.）」¶
+ mokṣahetū.）」¶
 
 【〔註釋〕
 法想、淨想是解脫的原因。反之，苦想、凶想是輪迴¶
@@ -4523,8 +4522,8 @@ mokṣahetū.）」¶
 §9.31
 「
 （所謂苦想）是當與不愛之對象結合時，為¶
-了離棄它而專念不休。（ārtama-manojñānāṃsamprayoge¶
-tad-viprayogāyasmṛti-samanvāhāraḥ.）」¶
+了離棄它而專念不休。（ārtama-manojñānāṃ samprayoge¶
+ tad-viprayogāya smṛti-samanvāhāraḥ.）」¶
 
 【〔註釋〕
 本節解釋什麼叫苦想。本節的解釋與佛教八苦之
@@ -4536,7 +4535,7 @@ tad-viprayogāyasmṛti-samanvāhāraḥ.）」¶
 §9.32
 「
 且（為了）從痛苦中（掙脫出來而進行專念¶
-也是苦想之一）。（vedanāyāśca.）」¶
+也是苦想之一）。（vedanāyāś ca.）」¶
 
 【〔註釋〕
 「痛苦」，原詞是vedanā，與佛教的「受」是同一詞（初¶
@@ -4549,7 +4548,7 @@ tad-viprayogāyasmṛti-samanvāhāraḥ.）」¶
 §9.33
 「
 對喜歡的對象的正好相反（的態度也同¶
-樣）。（viparītaṃmanojñānām.）」¶
+樣）。（viparītaṃ manojñānām.）」¶
 
 【〔註釋〕
 本節仍是論述什麼為苦想。極力專念那些沒能到手¶
@@ -4565,7 +4564,7 @@ tad-viprayogāyasmṛti-samanvāhāraḥ.）」¶
 §9.34
 「
 （對）未來的欲念也（是一種苦想）。¶
-（nidānaṃca.）」¶
+（nidānaṃ ca.）」¶
 
 【〔註釋〕
 「未來的欲念」是一特殊的術語，專指欲在來世實現¶
@@ -4575,7 +4574,7 @@ tad-viprayogāyasmṛti-samanvāhāraḥ.）」¶
 §9.35
 「
 （以上四種苦想）在住於無遠離位、部分的¶
-遠離位、放佚禁戒位者處產生。（tadavirata-deśavirata-¶
+遠離位、放佚禁戒位者處產生。（tad avirata-deśavirata-¶
 pramattasaṃyatānām.）」¶
 
 【〔註釋〕
@@ -4590,8 +4589,8 @@ pramattasaṃyatānām.）」¶
 「
 為了殺害、虛偽、偷盜、守護對境（而進行專¶
 念）即是凶想。（它）產生於無遠離位和部分遠離位。¶
-（hiṃsā-anṛta-steya-viṣayasaṃrakṣaṇebhyoraudram¶
-avirata-deaśviratayoḥ.）」¶
+（hiṃsā-anṛta-steya-viṣayasaṃrakṣaṇebhyo raudram¶
+ avirata-deaśviratayoḥ.）」¶
 
 【〔註釋〕
 本節論述什麼叫凶想，及它產生在哪些人身上。¶
@@ -4604,7 +4603,7 @@ avirata-deaśviratayoḥ.）」¶
 「
 為了聖教、損失、異熟、尋求形狀（而進行專¶
 念）即是法想。（它）產生於不放佚禁戒位。（ājñā-apāya¶
--vipāka-saṃsthāna-vicayāyadharmamapramatta-¶
+-vipāka-saṃsthāna-vicayāya dharmam apramatta-¶
 saṃyatasya.）」¶
 
 【〔註釋〕
@@ -4626,7 +4625,7 @@ saṃyatasya.）」¶
 §9.38
 「
 （且也產生於）穢濁抑止位和滅盡位。¶
-（upaśānta-kṣīṇakaśāyayośca.）」¶
+（upaśānta-kṣīṇakaśāyayoś ca.）」¶
 
 【〔註釋〕
 本節論述的仍是法想產生在哪些人身上。
@@ -4682,7 +4681,7 @@ chadmastha-g.-s.）¶
 §9.39
 「
 且淨想的最初兩種（產生於穢濁抑止位與¶
-滅盡位）。（śukleca-ādye.）」¶
+滅盡位）。（śukle ca-ādye.）」¶
 
 【〔註釋〕
 本節論述淨想。¶
@@ -4692,7 +4691,7 @@ chadmastha-g.-s.）¶
 尋求。這是逐漸深化的淨想四階段的前二個階段。¶
 
 空衣派的刊本中，本節為「且淨想的最初兩種產生於知道前的¶
-人」。（śuklecādyepūrva-vidaḥ.）「前」（pūrva），即十四前，是耆那¶
+人」。（śukle cādye pūrva-vidaḥ.）「前」（pūrva），即十四前，是耆那¶
 教的早已亡逸無考的古經典，參見§2.49的註釋。白衣派刊本本¶
 節的註釋也提到十四前，但正文則如本節所示，沒有涉及這一問¶
 題。】¶
@@ -4753,7 +4752,7 @@ ayogānām.」，意義相同。】¶
 §9.43
 「
 最初的二種（淨想）依止一而有尋。（eka-¶
-āśrayesavitarkepūrve.）」¶
+āśraye savitarke pūrve.）」¶
 
 【〔註釋〕
 據作者原註，所謂「依止一」指依止一事，而「一事」¶
@@ -4766,7 +4765,7 @@ ayogānām.」，意義相同。】¶
 
 §9.44
 「
-第二為無伺。（avicāraṃdvitīyam.）」¶
+第二為無伺。（avicāraṃ dvitīyam.）」¶
 
 【〔註釋〕
 白衣派刊本§9.43的註釋的最後說：「其中，第一為¶
@@ -4776,12 +4775,12 @@ ayogānām.」，意義相同。】¶
 
 §9.45
 「
-所謂有尋即聖典智。（vitarkaḥśrutam.）」¶
+所謂有尋即聖典智。（vitarkaḥ śrutam.）」¶
 
 §9.46
 「
 所謂伺察即對義、句與作為的推移。（vicāro¶
-'rtha-vyañjana-yoga-saṃkrāntiḥ.）」
+ 'rtha-vyañjana-yoga-saṃkrāntiḥ.）」
 <pb:KR6v0028_W_001-0455a>¶
 
 【〔註釋〕
@@ -4805,8 +4804,8 @@ ayogānām.」，意義相同。】¶
 （行癡）壞進行位，行癡壞盡位，勝者位者依次（比處於前¶
 一位者）消滅無數倍的（業）。（samyagdṛṣṭi-śrāvaka-¶
 virata-anantaviyojaka-darśanamohakṣapako-'paśamako¶
--'paśāntamoha-kṣapaka-kṣīṇamoha-jināḥkramaśo¶
-'saṃkhyeya-guṇa-nirjarāḥ.）」¶
+-'paśāntamoha-kṣapaka-kṣīṇamoha-jināḥ kramaśo¶
+ 'saṃkhyeya-guṇa-nirjarāḥ.）」¶
 
 【〔註釋〕
 關於「無終隨縛」，可參見§8.10及註釋。¶
@@ -4817,7 +4816,7 @@ virata-anantaviyojaka-darśanamohakṣapako-'paśamako¶
 「
 尼乾陀為榖皮者、有斑者、犯戒者、離繫者、¶
 沐浴者。（pulāka-bakuśa-kuśīla-nirgrantha-snātakā¶
-nirgranthāḥ.）」¶
+ nirgranthāḥ.）」¶
 
 【〔註釋〕
 「尼乾陀」（nirgrantha）即耆那教徒。耆那教在此把耆¶
@@ -4833,7 +4832,7 @@ nirgranthāḥ.）」¶
 可由禁戒、聖典智、服罪、津渡、相、色彩、¶
 生、階位的不同來推斷（這五種人的差別）。（saṃyama-¶
 śruta-pratisevanā-tīrtha-liṅga-leśyo-'papāta-¶
-sthānavikalpataḥsādhyāḥ.）」¶
+sthānavikalpataḥ sādhyāḥ.）」¶
 
 【〔註釋〕
 「服罪」，指被迫犯了五禁誓之一，或犯了夜間不食等¶
@@ -4858,8 +4857,8 @@ sthānavikalpataḥsādhyāḥ.）」¶
 §10.1
 「
 由滅盡愚癡且滅盡障覆、妨礙正智與正見¶
-的（業），而有完全智。（mohakṣayājjñāna-darśanāvaraṇa¶
--antarāya-kṣayāccakevalam.）」¶
+的（業），而有完全智。（mohakṣayāj jñāna-darśanāvaraṇa¶
+-antarāya-kṣayāc ca kevalam.）」¶
 
 【〔註釋〕
 本章主要論述七諦的最後一諦——解脫。¶
@@ -4877,21 +4876,21 @@ sthānavikalpataḥsādhyāḥ.）」¶
 「
 就能滅盡所有的業（而得到）解脫。（kṛtsna
 <pb:KR6v0028_W_001-0457a>¶
--karma-kṣayomokṣaḥ.）」¶
+-karma-kṣayo mokṣaḥ.）」¶
 
 【〔註釋〕
 空衣派的刊本把上述兩節合為一節，作：¶
 
 （§10.2）由於縛因的消除與滅，並從所有的業脫離，可得¶
-解脫。（banbhahetvabhāva-nirjarābhyāmkṛtsna-karma-¶
-vipramokṣomokṣaḥ.）】¶
+解脫。（banbhahetvabhāva-nirjarābhyām kṛtsna-karma-¶
+vipramokṣo mokṣaḥ.）】¶
 
 §10.4
 「
 業的抑止等（各種狀態）及（關於解脫的）可¶
 能性均消失，因而（有解脫）。但是屬於完全智的正行、智、¶
-見與完全性除外。（aupaśmaikādi-bhavyatva-abhāvācca,¶
-anyatrakevalasamyaktva-jñāna-darśana-¶
+見與完全性除外。（aupaśmaikādi-bhavyatva-abhāvāc ca,¶
+anyatra kevalasamyaktva-jñāna-darśana-¶
 siddhatvebhyaḥ.）」¶
 
 【〔註釋〕
@@ -4912,13 +4911,13 @@ siddhatvebhyaḥ.）」¶
 「
 （如果滅盡所有的業得到解脫，則解脫者）¶
 不停頓地直接上昇而達世界之終極之所。（tad-¶
-anantaramūrdhvaṃgacchatyālokāntāt.）」¶
+anantaram ūrdhvaṃ gacchaty ā lokāntāt.）」¶
 
 §10.6
 「
 由以前的加行、由無著、由斷縛、由如去的¶
-轉變性而有這種（上昇）的運動。（pūrvaprayogādasaṅgatvād¶
-bandhacchedāttathāgatipariṇāmāccatad-gatiḥ.）」¶
+轉變性而有這種（上昇）的運動。（pūrvaprayogād asaṅgatvād¶
+ bandhacchedāt tathāgatipariṇāmāc ca tad-gatiḥ.）」¶
 
 【〔註釋〕
 所謂「以前的加行」，指命解脫前運動的餘力或慣
@@ -4933,8 +4932,8 @@ bandhacchedāttathāgatipariṇāmāccatad-gatiḥ.）」¶
 （§10.7）正如轉動著的陶工輪子（自己還要轉動）那樣，正¶
 如除去污穢的葫蘆（浮到水面）那樣，正如（脫去殼的）蓖麻種子¶
 （向上發芽）那樣，且正如火焰（上昇）那樣。（āviddha-kulāla-¶
-cakravadvyupagata-lepa-ālābuvaderaṇda-bījavadagniśikhāvac¶
-ca.）¶
+cakravad vyupagata-lepa-ālābuvad eraṇda-bījavad agniśikhāvac¶
+ ca.）¶
 
 這四個比喻正是解釋加行、無著、斷縛、如去的轉變性的。¶
 
@@ -4952,7 +4951,7 @@ ca.）¶
 證、智、身量、間隔、數之多少來推斷（解脫的命）。（kṣetra-¶
 kāla-gati-liṅga-tirtha-cāritra-pratyekabuddhabodhita¶
 -jñāna-avagāhanā-antara-saṃkhyālpabahutvataḥ¶
-sādhyāḥ.）」¶
+ sādhyāḥ.）」¶
 
 【〔註釋〕
 耆那教認為解脫由本節所述的十一個因素決定，因¶
